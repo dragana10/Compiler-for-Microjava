@@ -1,0 +1,520 @@
+INFO  03:05:17,124 - Compiling source file: C:\Users\PC\pp1Domaci\workspace\MJCompiler\test\program.mj
+INFO  03:05:17,244 - #2 program
+INFO  03:05:17,244 - #3 MJprog
+INFO  03:05:17,245 - #3 int
+INFO  03:05:17,246 - #3 a
+INFO  03:05:17,247 - #6 ;
+INFO  03:05:17,250 - #16 class
+INFO  03:05:17,251 - #3 AB
+INFO  03:05:17,251 - #17 extends
+INFO  03:05:17,251 - #3 klk
+INFO  03:05:17,251 - #23 {
+INFO  03:05:17,251 - #3 int
+INFO  03:05:17,253 - #3 kl
+INFO  03:05:17,253 - #6 ;
+INFO  03:05:17,253 - #23 {
+INFO  03:05:17,253 - #15 void
+INFO  03:05:17,254 - #3 fja1
+INFO  03:05:17,256 - #27 (
+INFO  03:05:17,257 - #28 )
+INFO  03:05:17,258 - #23 {
+INFO  03:05:17,258 - #21 if
+INFO  03:05:17,260 - #27 (
+INFO  03:05:17,260 - #3 a
+INFO  03:05:17,261 - #30 ==
+INFO  03:05:17,266 - #3 b
+INFO  03:05:17,269 - #28 )
+INFO  03:05:17,273 - #3 c
+INFO  03:05:17,273 - #6 ;
+INFO  03:05:17,274 - #22 else
+INFO  03:05:17,274 - #21 if
+INFO  03:05:17,274 - #27 (
+INFO  03:05:17,274 - #3 h
+INFO  03:05:17,274 - #31 !=
+INFO  03:05:17,275 - #48 0
+INFO  03:05:17,276 - #28 )
+INFO  03:05:17,277 - #3 d
+INFO  03:05:17,277 - #6 ;
+INFO  03:05:17,277 - #24 }
+INFO  03:05:17,279 - #15 void
+INFO  03:05:17,281 - #3 fja2
+INFO  03:05:17,281 - #27 (
+INFO  03:05:17,281 - #3 int
+INFO  03:05:17,281 - #3 g
+INFO  03:05:17,281 - #25 [
+INFO  03:05:17,281 - #26 ]
+INFO  03:05:17,281 - #5 ,
+INFO  03:05:17,282 - #3 string
+INFO  03:05:17,282 - #3 k
+INFO  03:05:17,282 - #25 [
+INFO  03:05:17,282 - #26 ]
+INFO  03:05:17,282 - #28 )
+INFO  03:05:17,283 - #23 {
+INFO  03:05:17,283 - #3 a
+INFO  03:05:17,283 - #29 =
+INFO  03:05:17,283 - #48 3
+INFO  03:05:17,285 - #40 *
+INFO  03:05:17,285 - #3 b
+INFO  03:05:17,287 - #6 ;
+INFO  03:05:17,288 - #18 print
+INFO  03:05:17,288 - #27 (
+INFO  03:05:17,288 - #3 a
+INFO  03:05:17,288 - #28 )
+INFO  03:05:17,289 - #6 ;
+INFO  03:05:17,289 - #3 b
+INFO  03:05:17,290 - #29 =
+INFO  03:05:17,290 - #48 9
+INFO  03:05:17,290 - #41 /
+INFO  03:05:17,290 - #3 p
+INFO  03:05:17,292 - #6 ;
+INFO  03:05:17,293 - #24 }
+INFO  03:05:17,293 - #24 }
+INFO  03:05:17,293 - #24 }
+INFO  03:05:17,294 - #23 {
+INFO  03:05:17,294 - #15 void
+INFO  03:05:17,294 - #3 main
+INFO  03:05:17,295 - #27 (
+INFO  03:05:17,295 - #3 int
+INFO  03:05:17,295 - #3 g
+INFO  03:05:17,296 - #25 [
+INFO  03:05:17,296 - #26 ]
+INFO  03:05:17,296 - #28 )
+INFO  03:05:17,297 - #23 {
+INFO  03:05:17,298 - #3 a
+INFO  03:05:17,299 - #29 =
+INFO  03:05:17,299 - #48 3
+INFO  03:05:17,300 - #38 +
+INFO  03:05:17,301 - #3 b
+INFO  03:05:17,308 - #6 ;
+INFO  03:05:17,309 - #18 print
+INFO  03:05:17,310 - #27 (
+INFO  03:05:17,310 - #3 a
+INFO  03:05:17,310 - #28 )
+INFO  03:05:17,312 - #6 ;
+INFO  03:05:17,313 - #3 b
+INFO  03:05:17,314 - #29 =
+INFO  03:05:17,314 - #48 9
+INFO  03:05:17,315 - #38 +
+INFO  03:05:17,316 - #3 p
+INFO  03:05:17,316 - #6 ;
+INFO  03:05:17,316 - #24 }
+INFO  03:05:17,318 - #24 }
+INFO  03:05:17,328 - Program(
+  DeclarationLst(
+    DeclarationLst(
+      NoDeclarationLst(
+      ) [NoDeclarationLst]
+      VarDeclL(
+        VarDeclLn(
+          Type(
+          ) [Type]
+          VarName(
+          ) [VarName]
+          SingleVarDecl(
+          ) [SingleVarDecl]
+        ) [VarDeclLn]
+      ) [VarDeclL]
+    ) [DeclarationLst]
+    ClassDeclr(
+      SubClassDeclar(
+        Type(
+        ) [Type]
+        MultipleVars(
+          NoVarLine(
+          ) [NoVarLine]
+          VarDeclLn(
+            Type(
+            ) [Type]
+            VarName(
+            ) [VarName]
+            SingleVarDecl(
+            ) [SingleVarDecl]
+          ) [VarDeclLn]
+        ) [MultipleVars]
+        ClassBodyNoConst(
+          MethodDeclLst(
+            MethodDeclLst(
+              NoMethodDecl(
+              ) [NoMethodDecl]
+              MethodDecl(
+                VoidRet(
+                ) [VoidRet]
+                NoFormPars(
+                ) [NoFormPars]
+                NoVarLine(
+                ) [NoVarLine]
+                StatementsBlock(
+                  StatementLst(
+                    NoStatement(
+                    ) [NoStatement]
+                    OneStatement(
+                      UnmatchedStmt(
+                        UnmatchedIfElse(
+                          Condition(
+                            SingleCondTerm(
+                              CondTerm(
+                                SingleCondFact(
+                                  CondFactRelop(
+                                    Express(
+                                      SingleTerm(
+                                        Term(
+                                          SignleFactor(
+                                            Objct(
+                                              Designator(
+                                                NoDesignElem(
+                                                ) [NoDesignElem]
+                                              ) [Designator]
+                                            ) [Objct]
+                                          ) [SignleFactor]
+                                        ) [Term]
+                                      ) [SingleTerm]
+                                    ) [Express]
+                                    Same(
+                                    ) [Same]
+                                    Express(
+                                      SingleTerm(
+                                        Term(
+                                          SignleFactor(
+                                            Objct(
+                                              Designator(
+                                                NoDesignElem(
+                                                ) [NoDesignElem]
+                                              ) [Designator]
+                                            ) [Objct]
+                                          ) [SignleFactor]
+                                        ) [Term]
+                                      ) [SingleTerm]
+                                    ) [Express]
+                                  ) [CondFactRelop]
+                                ) [SingleCondFact]
+                              ) [CondTerm]
+                            ) [SingleCondTerm]
+                          ) [Condition]
+                          DesignStmt(
+                            Design(
+                              Designator(
+                                NoDesignElem(
+                                ) [NoDesignElem]
+                              ) [Designator]
+                            ) [Design]
+                          ) [DesignStmt]
+                          UnmatchedIf(
+                            Condition(
+                              SingleCondTerm(
+                                CondTerm(
+                                  SingleCondFact(
+                                    CondFactRelop(
+                                      Express(
+                                        SingleTerm(
+                                          Term(
+                                            SignleFactor(
+                                              Objct(
+                                                Designator(
+                                                  NoDesignElem(
+                                                  ) [NoDesignElem]
+                                                ) [Designator]
+                                              ) [Objct]
+                                            ) [SignleFactor]
+                                          ) [Term]
+                                        ) [SingleTerm]
+                                      ) [Express]
+                                      Differ(
+                                      ) [Differ]
+                                      Express(
+                                        SingleTerm(
+                                          Term(
+                                            SignleFactor(
+                                              NumCons(
+                                                Number1(
+                                                ) [Number1]
+                                              ) [NumCons]
+                                            ) [SignleFactor]
+                                          ) [Term]
+                                        ) [SingleTerm]
+                                      ) [Express]
+                                    ) [CondFactRelop]
+                                  ) [SingleCondFact]
+                                ) [CondTerm]
+                              ) [SingleCondTerm]
+                            ) [Condition]
+                            OneStatement(
+                              MatchedStmt(
+                                DesignStmt(
+                                  Design(
+                                    Designator(
+                                      NoDesignElem(
+                                      ) [NoDesignElem]
+                                    ) [Designator]
+                                  ) [Design]
+                                ) [DesignStmt]
+                              ) [MatchedStmt]
+                            ) [OneStatement]
+                          ) [UnmatchedIf]
+                        ) [UnmatchedIfElse]
+                      ) [UnmatchedStmt]
+                    ) [OneStatement]
+                  ) [StatementLst]
+                ) [StatementsBlock]
+              ) [MethodDecl]
+            ) [MethodDeclLst]
+            MethodDecl(
+              VoidRet(
+              ) [VoidRet]
+              MethodFormP(
+                FormParamList(
+                  SingleFormPar(
+                    ArrayDecl(
+                      Type(
+                      ) [Type]
+                    ) [ArrayDecl]
+                  ) [SingleFormPar]
+                  ArrayDecl(
+                    Type(
+                    ) [Type]
+                  ) [ArrayDecl]
+                ) [FormParamList]
+              ) [MethodFormP]
+              NoVarLine(
+              ) [NoVarLine]
+              StatementsBlock(
+                StatementLst(
+                  StatementLst(
+                    StatementLst(
+                      NoStatement(
+                      ) [NoStatement]
+                      OneStatement(
+                        MatchedStmt(
+                          DesignStmt(
+                            Assign(
+                              Designator(
+                                NoDesignElem(
+                                ) [NoDesignElem]
+                              ) [Designator]
+                              AssignopDerived1(
+                              ) [AssignopDerived1]
+                              Express(
+                                SingleTerm(
+                                  Term(
+                                    FactorLst(
+                                      SignleFactor(
+                                        NumCons(
+                                          Number1(
+                                          ) [Number1]
+                                        ) [NumCons]
+                                      ) [SignleFactor]
+                                      Mul(
+                                      ) [Mul]
+                                      Objct(
+                                        Designator(
+                                          NoDesignElem(
+                                          ) [NoDesignElem]
+                                        ) [Designator]
+                                      ) [Objct]
+                                    ) [FactorLst]
+                                  ) [Term]
+                                ) [SingleTerm]
+                              ) [Express]
+                            ) [Assign]
+                          ) [DesignStmt]
+                        ) [MatchedStmt]
+                      ) [OneStatement]
+                    ) [StatementLst]
+                    OneStatement(
+                      MatchedStmt(
+                        PrintNoNum(
+                          Express(
+                            SingleTerm(
+                              Term(
+                                SignleFactor(
+                                  Objct(
+                                    Designator(
+                                      NoDesignElem(
+                                      ) [NoDesignElem]
+                                    ) [Designator]
+                                  ) [Objct]
+                                ) [SignleFactor]
+                              ) [Term]
+                            ) [SingleTerm]
+                          ) [Express]
+                        ) [PrintNoNum]
+                      ) [MatchedStmt]
+                    ) [OneStatement]
+                  ) [StatementLst]
+                  OneStatement(
+                    MatchedStmt(
+                      DesignStmt(
+                        Assign(
+                          Designator(
+                            NoDesignElem(
+                            ) [NoDesignElem]
+                          ) [Designator]
+                          AssignopDerived1(
+                          ) [AssignopDerived1]
+                          Express(
+                            SingleTerm(
+                              Term(
+                                FactorLst(
+                                  SignleFactor(
+                                    NumCons(
+                                      Number1(
+                                      ) [Number1]
+                                    ) [NumCons]
+                                  ) [SignleFactor]
+                                  Div(
+                                  ) [Div]
+                                  Objct(
+                                    Designator(
+                                      NoDesignElem(
+                                      ) [NoDesignElem]
+                                    ) [Designator]
+                                  ) [Objct]
+                                ) [FactorLst]
+                              ) [Term]
+                            ) [SingleTerm]
+                          ) [Express]
+                        ) [Assign]
+                      ) [DesignStmt]
+                    ) [MatchedStmt]
+                  ) [OneStatement]
+                ) [StatementLst]
+              ) [StatementsBlock]
+            ) [MethodDecl]
+          ) [MethodDeclLst]
+        ) [ClassBodyNoConst]
+      ) [SubClassDeclar]
+    ) [ClassDeclr]
+  ) [DeclarationLst]
+  MethodDeclLst(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      VoidRet(
+      ) [VoidRet]
+      MethodFormP(
+        SingleFormPar(
+          ArrayDecl(
+            Type(
+            ) [Type]
+          ) [ArrayDecl]
+        ) [SingleFormPar]
+      ) [MethodFormP]
+      NoVarLine(
+      ) [NoVarLine]
+      StatementsBlock(
+        StatementLst(
+          StatementLst(
+            StatementLst(
+              NoStatement(
+              ) [NoStatement]
+              OneStatement(
+                MatchedStmt(
+                  DesignStmt(
+                    Assign(
+                      Designator(
+                        NoDesignElem(
+                        ) [NoDesignElem]
+                      ) [Designator]
+                      AssignopDerived1(
+                      ) [AssignopDerived1]
+                      Express(
+                        TermLst(
+                          SingleTerm(
+                            Term(
+                              SignleFactor(
+                                NumCons(
+                                  Number1(
+                                  ) [Number1]
+                                ) [NumCons]
+                              ) [SignleFactor]
+                            ) [Term]
+                          ) [SingleTerm]
+                          Plus(
+                          ) [Plus]
+                          Term(
+                            SignleFactor(
+                              Objct(
+                                Designator(
+                                  NoDesignElem(
+                                  ) [NoDesignElem]
+                                ) [Designator]
+                              ) [Objct]
+                            ) [SignleFactor]
+                          ) [Term]
+                        ) [TermLst]
+                      ) [Express]
+                    ) [Assign]
+                  ) [DesignStmt]
+                ) [MatchedStmt]
+              ) [OneStatement]
+            ) [StatementLst]
+            OneStatement(
+              MatchedStmt(
+                PrintNoNum(
+                  Express(
+                    SingleTerm(
+                      Term(
+                        SignleFactor(
+                          Objct(
+                            Designator(
+                              NoDesignElem(
+                              ) [NoDesignElem]
+                            ) [Designator]
+                          ) [Objct]
+                        ) [SignleFactor]
+                      ) [Term]
+                    ) [SingleTerm]
+                  ) [Express]
+                ) [PrintNoNum]
+              ) [MatchedStmt]
+            ) [OneStatement]
+          ) [StatementLst]
+          OneStatement(
+            MatchedStmt(
+              DesignStmt(
+                Assign(
+                  Designator(
+                    NoDesignElem(
+                    ) [NoDesignElem]
+                  ) [Designator]
+                  AssignopDerived1(
+                  ) [AssignopDerived1]
+                  Express(
+                    TermLst(
+                      SingleTerm(
+                        Term(
+                          SignleFactor(
+                            NumCons(
+                              Number1(
+                              ) [Number1]
+                            ) [NumCons]
+                          ) [SignleFactor]
+                        ) [Term]
+                      ) [SingleTerm]
+                      Plus(
+                      ) [Plus]
+                      Term(
+                        SignleFactor(
+                          Objct(
+                            Designator(
+                              NoDesignElem(
+                              ) [NoDesignElem]
+                            ) [Designator]
+                          ) [Objct]
+                        ) [SignleFactor]
+                      ) [Term]
+                    ) [TermLst]
+                  ) [Express]
+                ) [Assign]
+              ) [DesignStmt]
+            ) [MatchedStmt]
+          ) [OneStatement]
+        ) [StatementLst]
+      ) [StatementsBlock]
+    ) [MethodDecl]
+  ) [MethodDeclLst]
+) [Program]
+INFO  03:05:17,330 - ===================================
+INFO  03:05:17,337 - Prepoznata print naredba! 
+INFO  03:05:17,338 - Prepoznata print naredba! 
+INFO  03:05:17,338 -  Print count calls = 2
+INFO  03:05:17,338 -  Deklarisanih promenljivih ima = 0
