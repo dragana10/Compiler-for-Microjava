@@ -1,33 +1,63 @@
-program MJprog
+// TestMoj
 
- int a;
- 
-class AB extends klk
- {
-	int kl;
-	{
+program test301
+
+	const int nula = 0;
+	const int jedan = 1;
+	const int pet = 5;
+
+	int niz[];
+	int reverseNiz[];
+	int maxNiz[];
+	char nizch[];
 	
-		void fja1 () 
-		{ 
-			if(a == b) c;
-			else if (h != 0) d;
-			
-			 
-		}
-		void fja2 (int g[], string  k[]) 
-		{ 
-			 a = 3 * b;
-			 print(a);
-			 b = 9 / p; 
-		}
-	}
- }
- 
 {
-		void main (int g[]) 
-		{ 
-			 a = 3 + b;
-			 print(a);
-			 b = 9 + p; 
-		}
+	void main()	
+		int bodovi;
+		int moje;
+		bool bt;
+	{
+		
+		// reverseNiz~2 ==> reverseNiz[2] = reverseNiz[2] + reverseNiz[10-2]
+		// reverseNiz[2]=7+1=8
+		
+		reverseNiz = new int[10];
+		reverseNiz[0] = 9;
+		reverseNiz[1] = 8;
+		reverseNiz[2] = 7;
+		reverseNiz[3] = 6;
+		reverseNiz[4] = 5;
+		reverseNiz[5] = 4;
+		reverseNiz[6] = 3;
+		reverseNiz[7] = 2;
+		reverseNiz[8] = 1;
+		reverseNiz[9] = 0;
+		print(reverseNiz[0]);
+		print(reverseNiz[1]);
+		print(reverseNiz[2]);
+		print(reverseNiz[3]);
+		print(reverseNiz[4]);
+		print(reverseNiz[5]);
+		print(reverseNiz[6]);
+		print(reverseNiz[7]);
+		print(reverseNiz[8]);
+		print(reverseNiz[9]);
+		
+		
+		reverseNiz~2;
+		print(reverseNiz[2]);
+		
+		
+		
+		//moje = #maxNiz; ==> vraca max elem iz maxNiz
+		maxNiz = new int[3];
+		maxNiz[0] = 3;
+		maxNiz[1] = 11;
+		maxNiz[2] = 5;
+		moje = #maxNiz;
+		print(moje);
+		
+	}
 }
+
+

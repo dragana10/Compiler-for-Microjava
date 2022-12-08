@@ -1,37 +1,37 @@
 // generated with ast extension for cup
 // version 0.8
-// 7/1/2022 3:1:25
+// 14/8/2022 6:31:2
 
 
 package rs.ac.bg.etf.pp1.ast;
 
-public class VarName extends VarDecl {
+public abstract class VarName implements SyntaxNode {
 
-    public VarName () {
+    private SyntaxNode parent;
+
+    private int line;
+
+    public SyntaxNode getParent() {
+        return parent;
     }
 
-    public void accept(Visitor visitor) {
-        visitor.visit(this);
+    public void setParent(SyntaxNode parent) {
+        this.parent=parent;
     }
 
-    public void childrenAccept(Visitor visitor) {
+    public int getLine() {
+        return line;
     }
 
-    public void traverseTopDown(Visitor visitor) {
-        accept(visitor);
+    public void setLine(int line) {
+        this.line=line;
     }
 
-    public void traverseBottomUp(Visitor visitor) {
-        accept(visitor);
-    }
+    public abstract void accept(Visitor visitor);
+    public abstract void childrenAccept(Visitor visitor);
+    public abstract void traverseTopDown(Visitor visitor);
+    public abstract void traverseBottomUp(Visitor visitor);
 
-    public String toString(String tab) {
-        StringBuffer buffer=new StringBuffer();
-        buffer.append(tab);
-        buffer.append("VarName(\n");
-
-        buffer.append(tab);
-        buffer.append(") [VarName]");
-        return buffer.toString();
-    }
+    public String toString() { return toString(""); }
+    public abstract String toString(String tab);
 }

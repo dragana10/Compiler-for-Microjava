@@ -1,0 +1,4776 @@
+INFO  05:58:49,824 - Compiling source file: D:\workspace\pp1\Dominacija\test\program.mj
+INFO  05:58:49,884 - #2 program
+INFO  05:58:49,884 - #20 test301
+INFO  05:58:49,884 - #3 const
+INFO  05:58:49,886 - #20 int
+INFO  05:58:49,886 - #20 nula
+INFO  05:58:49,887 - #11 =
+INFO  05:58:49,887 - #18 0
+INFO  05:58:49,887 - #6 ;
+INFO  05:58:49,888 - #3 const
+INFO  05:58:49,889 - #20 int
+INFO  05:58:49,889 - #20 jedan
+INFO  05:58:49,889 - #11 =
+INFO  05:58:49,889 - #18 1
+INFO  05:58:49,889 - #6 ;
+INFO  05:58:49,889 - #3 const
+INFO  05:58:49,889 - #20 int
+INFO  05:58:49,889 - #20 tri
+INFO  05:58:49,890 - #11 =
+INFO  05:58:49,890 - #18 3
+INFO  05:58:49,890 - #6 ;
+INFO  05:58:49,890 - #3 const
+INFO  05:58:49,890 - #20 int
+INFO  05:58:49,891 - #20 pet
+INFO  05:58:49,891 - #11 =
+INFO  05:58:49,891 - #18 5
+INFO  05:58:49,891 - #6 ;
+INFO  05:58:49,891 - #20 int
+INFO  05:58:49,891 - #20 niz
+INFO  05:58:49,891 - #9 [
+INFO  05:58:49,891 - #10 ]
+INFO  05:58:49,891 - #6 ;
+INFO  05:58:49,892 - #20 char
+INFO  05:58:49,893 - #20 nizch
+INFO  05:58:49,893 - #9 [
+INFO  05:58:49,893 - #10 ]
+INFO  05:58:49,893 - #6 ;
+INFO  05:58:49,893 - #4 {
+INFO  05:58:49,893 - #16 void
+INFO  05:58:49,893 - #20 main
+INFO  05:58:49,894 - #7 (
+INFO  05:58:49,894 - #8 )
+INFO  05:58:49,894 - #20 int
+INFO  05:58:49,895 - #20 bodovi
+INFO  05:58:49,895 - #6 ;
+INFO  05:58:49,895 - #20 bool
+INFO  05:58:49,895 - #20 bt
+INFO  05:58:49,895 - #6 ;
+INFO  05:58:49,895 - #4 {
+INFO  05:58:49,895 - #20 bodovi
+INFO  05:58:49,896 - #11 =
+INFO  05:58:49,896 - #18 0
+INFO  05:58:49,897 - #6 ;
+INFO  05:58:49,901 - #20 bodovi
+INFO  05:58:49,902 - #34 ++
+INFO  05:58:49,902 - #6 ;
+INFO  05:58:49,903 - #20 bodovi
+INFO  05:58:49,903 - #11 =
+INFO  05:58:49,903 - #7 (
+INFO  05:58:49,903 - #20 bodovi
+INFO  05:58:49,903 - #13 +
+INFO  05:58:49,903 - #20 jedan
+INFO  05:58:49,904 - #8 )
+INFO  05:58:49,904 - #49 ??
+INFO  05:58:49,905 - #20 tri
+INFO  05:58:49,905 - #6 ;
+INFO  05:58:49,905 - #20 bodovi
+INFO  05:58:49,906 - #11 =
+INFO  05:58:49,906 - #20 bodovi
+INFO  05:58:49,907 - #37 *
+INFO  05:58:49,907 - #20 pet
+INFO  05:58:49,908 - #6 ;
+INFO  05:58:49,908 - #20 bodovi
+INFO  05:58:49,908 - #35 --
+INFO  05:58:49,909 - #6 ;
+INFO  05:58:49,909 - #15 print
+INFO  05:58:49,909 - #7 (
+INFO  05:58:49,910 - #20 bodovi
+INFO  05:58:49,910 - #8 )
+INFO  05:58:49,910 - #6 ;
+INFO  05:58:49,910 - #20 niz
+INFO  05:58:49,910 - #11 =
+INFO  05:58:49,910 - #48 new
+INFO  05:58:49,910 - #20 int
+INFO  05:58:49,910 - #9 [
+INFO  05:58:49,910 - #18 3
+INFO  05:58:49,910 - #10 ]
+INFO  05:58:49,910 - #6 ;
+INFO  05:58:49,911 - #20 niz
+INFO  05:58:49,911 - #9 [
+INFO  05:58:49,911 - #20 nula
+INFO  05:58:49,911 - #10 ]
+INFO  05:58:49,911 - #11 =
+INFO  05:58:49,911 - #20 jedan
+INFO  05:58:49,911 - #6 ;
+INFO  05:58:49,911 - #20 niz
+INFO  05:58:49,911 - #9 [
+INFO  05:58:49,911 - #18 1
+INFO  05:58:49,911 - #10 ]
+INFO  05:58:49,911 - #11 =
+INFO  05:58:49,911 - #18 2
+INFO  05:58:49,911 - #6 ;
+INFO  05:58:49,912 - #20 niz
+INFO  05:58:49,912 - #9 [
+INFO  05:58:49,912 - #20 niz
+INFO  05:58:49,912 - #9 [
+INFO  05:58:49,912 - #20 jedan
+INFO  05:58:49,912 - #10 ]
+INFO  05:58:49,912 - #49 ??
+INFO  05:58:49,912 - #36 -
+INFO  05:58:49,912 - #18 1
+INFO  05:58:49,912 - #10 ]
+INFO  05:58:49,912 - #11 =
+INFO  05:58:49,912 - #20 niz
+INFO  05:58:49,912 - #9 [
+INFO  05:58:49,912 - #7 (
+INFO  05:58:49,912 - #20 niz
+INFO  05:58:49,912 - #9 [
+INFO  05:58:49,913 - #18 0
+INFO  05:58:49,913 - #10 ]
+INFO  05:58:49,913 - #36 -
+INFO  05:58:49,913 - #20 jedan
+INFO  05:58:49,913 - #8 )
+INFO  05:58:49,913 - #49 ??
+INFO  05:58:49,913 - #7 (
+INFO  05:58:49,913 - #20 bodovi
+INFO  05:58:49,913 - #37 *
+INFO  05:58:49,914 - #20 nula
+INFO  05:58:49,914 - #49 ??
+INFO  05:58:49,914 - #20 jedan
+INFO  05:58:49,914 - #8 )
+INFO  05:58:49,914 - #10 ]
+INFO  05:58:49,914 - #37 *
+INFO  05:58:49,914 - #18 3
+INFO  05:58:49,914 - #6 ;
+INFO  05:58:49,914 - #20 bodovi
+INFO  05:58:49,914 - #11 =
+INFO  05:58:49,914 - #20 niz
+INFO  05:58:49,914 - #9 [
+INFO  05:58:49,914 - #18 2
+INFO  05:58:49,914 - #10 ]
+INFO  05:58:49,914 - #38 /
+INFO  05:58:49,915 - #20 niz
+INFO  05:58:49,915 - #9 [
+INFO  05:58:49,915 - #18 0
+INFO  05:58:49,915 - #10 ]
+INFO  05:58:49,915 - #6 ;
+INFO  05:58:49,915 - #15 print
+INFO  05:58:49,915 - #7 (
+INFO  05:58:49,915 - #20 bodovi
+INFO  05:58:49,915 - #8 )
+INFO  05:58:49,916 - #6 ;
+INFO  05:58:49,916 - #15 print
+INFO  05:58:49,916 - #7 (
+INFO  05:58:49,916 - #20 niz
+INFO  05:58:49,916 - #9 [
+INFO  05:58:49,916 - #18 2
+INFO  05:58:49,916 - #10 ]
+INFO  05:58:49,916 - #8 )
+INFO  05:58:49,916 - #6 ;
+INFO  05:58:49,916 - #20 nizch
+INFO  05:58:49,916 - #11 =
+INFO  05:58:49,916 - #48 new
+INFO  05:58:49,916 - #20 char
+INFO  05:58:49,916 - #9 [
+INFO  05:58:49,917 - #18 3
+INFO  05:58:49,917 - #10 ]
+INFO  05:58:49,917 - #6 ;
+INFO  05:58:49,917 - #20 nizch
+INFO  05:58:49,917 - #9 [
+INFO  05:58:49,917 - #18 0
+INFO  05:58:49,917 - #10 ]
+INFO  05:58:49,917 - #11 =
+INFO  05:58:49,918 - #17 a
+INFO  05:58:49,918 - #6 ;
+INFO  05:58:49,918 - #20 nizch
+INFO  05:58:49,919 - #9 [
+INFO  05:58:49,919 - #20 jedan
+INFO  05:58:49,919 - #10 ]
+INFO  05:58:49,919 - #11 =
+INFO  05:58:49,919 - #17 b
+INFO  05:58:49,919 - #6 ;
+INFO  05:58:49,919 - #20 nizch
+INFO  05:58:49,919 - #9 [
+INFO  05:58:49,919 - #20 pet
+INFO  05:58:49,919 - #36 -
+INFO  05:58:49,919 - #18 3
+INFO  05:58:49,919 - #10 ]
+INFO  05:58:49,919 - #11 =
+INFO  05:58:49,919 - #17 c
+INFO  05:58:49,919 - #6 ;
+INFO  05:58:49,919 - #15 print
+INFO  05:58:49,920 - #7 (
+INFO  05:58:49,920 - #20 nizch
+INFO  05:58:49,920 - #9 [
+INFO  05:58:49,920 - #18 1
+INFO  05:58:49,920 - #10 ]
+INFO  05:58:49,920 - #8 )
+INFO  05:58:49,920 - #6 ;
+INFO  05:58:49,920 - #15 print
+INFO  05:58:49,920 - #7 (
+INFO  05:58:49,920 - #20 nizch
+INFO  05:58:49,920 - #9 [
+INFO  05:58:49,920 - #20 jedan
+INFO  05:58:49,920 - #37 *
+INFO  05:58:49,920 - #18 2
+INFO  05:58:49,920 - #10 ]
+INFO  05:58:49,920 - #8 )
+INFO  05:58:49,920 - #6 ;
+INFO  05:58:49,920 - #20 bodovi
+INFO  05:58:49,921 - #11 =
+INFO  05:58:49,921 - #20 bodovi
+INFO  05:58:49,921 - #13 +
+INFO  05:58:49,921 - #7 (
+INFO  05:58:49,921 - #20 pet
+INFO  05:58:49,921 - #37 *
+INFO  05:58:49,921 - #20 jedan
+INFO  05:58:49,921 - #36 -
+INFO  05:58:49,921 - #18 1
+INFO  05:58:49,921 - #8 )
+INFO  05:58:49,921 - #37 *
+INFO  05:58:49,921 - #20 bodovi
+INFO  05:58:49,921 - #36 -
+INFO  05:58:49,921 - #7 (
+INFO  05:58:49,921 - #18 3
+INFO  05:58:49,921 - #39 %
+INFO  05:58:49,921 - #18 2
+INFO  05:58:49,922 - #13 +
+INFO  05:58:49,922 - #18 3
+INFO  05:58:49,922 - #37 *
+INFO  05:58:49,922 - #18 2
+INFO  05:58:49,922 - #36 -
+INFO  05:58:49,922 - #18 3
+INFO  05:58:49,922 - #8 )
+INFO  05:58:49,923 - #6 ;
+INFO  05:58:49,923 - #15 print
+INFO  05:58:49,923 - #7 (
+INFO  05:58:49,923 - #20 bodovi
+INFO  05:58:49,923 - #8 )
+INFO  05:58:49,923 - #6 ;
+INFO  05:58:49,923 - #32 read
+INFO  05:58:49,923 - #7 (
+INFO  05:58:49,924 - #20 bodovi
+INFO  05:58:49,924 - #8 )
+INFO  05:58:49,924 - #6 ;
+INFO  05:58:49,924 - #15 print
+INFO  05:58:49,924 - #7 (
+INFO  05:58:49,924 - #20 bodovi
+INFO  05:58:49,924 - #8 )
+INFO  05:58:49,924 - #6 ;
+INFO  05:58:49,924 - #5 }
+INFO  05:58:49,924 - #5 }
+INFO  05:58:49,945 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ListDeclForProg(
+    ListDeclForProg(
+      ListDeclForProg(
+        ListDeclForProg(
+          ListDeclForProg(
+            ListDeclForProg(
+              NoListOfDecs(
+              ) [NoListOfDecs]
+              ConstDeclForProg(
+                ConstDeclaration(
+                  Type(
+                   int
+                  ) [Type]
+                  ConstExp(
+                   nula
+                    NumConstVal(
+                      NumConst(
+                       0
+                      ) [NumConst]
+                    ) [NumConstVal]
+                  ) [ConstExp]
+                  NoConsts(
+                  ) [NoConsts]
+                ) [ConstDeclaration]
+              ) [ConstDeclForProg]
+            ) [ListDeclForProg]
+            ConstDeclForProg(
+              ConstDeclaration(
+                Type(
+                 int
+                ) [Type]
+                ConstExp(
+                 jedan
+                  NumConstVal(
+                    NumConst(
+                     1
+                    ) [NumConst]
+                  ) [NumConstVal]
+                ) [ConstExp]
+                NoConsts(
+                ) [NoConsts]
+              ) [ConstDeclaration]
+            ) [ConstDeclForProg]
+          ) [ListDeclForProg]
+          ConstDeclForProg(
+            ConstDeclaration(
+              Type(
+               int
+              ) [Type]
+              ConstExp(
+               tri
+                NumConstVal(
+                  NumConst(
+                   3
+                  ) [NumConst]
+                ) [NumConstVal]
+              ) [ConstExp]
+              NoConsts(
+              ) [NoConsts]
+            ) [ConstDeclaration]
+          ) [ConstDeclForProg]
+        ) [ListDeclForProg]
+        ConstDeclForProg(
+          ConstDeclaration(
+            Type(
+             int
+            ) [Type]
+            ConstExp(
+             pet
+              NumConstVal(
+                NumConst(
+                 5
+                ) [NumConst]
+              ) [NumConstVal]
+            ) [ConstExp]
+            NoConsts(
+            ) [NoConsts]
+          ) [ConstDeclaration]
+        ) [ConstDeclForProg]
+      ) [ListDeclForProg]
+      VarDeclForProg(
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+          VarArray(
+            ArrayName(
+             niz
+            ) [ArrayName]
+          ) [VarArray]
+          NoVars(
+          ) [NoVars]
+        ) [VarDeclaration]
+      ) [VarDeclForProg]
+    ) [ListDeclForProg]
+    VarDeclForProg(
+      VarDeclaration(
+        Type(
+         char
+        ) [Type]
+        VarArray(
+          ArrayName(
+           nizch
+          ) [ArrayName]
+        ) [VarArray]
+        NoVars(
+        ) [NoVars]
+      ) [VarDeclaration]
+    ) [VarDeclForProg]
+  ) [ListDeclForProg]
+  ListMethodDecls(
+    NoMetDecls(
+    ) [NoMetDecls]
+    MethodDeclr(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      NoFormPars(
+      ) [NoFormPars]
+      MulVariableDecls(
+        MulVariableDecls(
+          NoMulVars(
+          ) [NoMulVars]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+            VarVariable(
+              VariableName(
+               bodovi
+              ) [VariableName]
+            ) [VarVariable]
+            NoVars(
+            ) [NoVars]
+          ) [VarDeclaration]
+        ) [MulVariableDecls]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+          VarVariable(
+            VariableName(
+             bt
+            ) [VariableName]
+          ) [VarVariable]
+          NoVars(
+          ) [NoVars]
+        ) [VarDeclaration]
+      ) [MulVariableDecls]
+      Statements(
+        ListStatements(
+          ListStatements(
+            ListStatements(
+              ListStatements(
+                ListStatements(
+                  ListStatements(
+                    ListStatements(
+                      ListStatements(
+                        ListStatements(
+                          ListStatements(
+                            ListStatements(
+                              ListStatements(
+                                ListStatements(
+                                  ListStatements(
+                                    ListStatements(
+                                      ListStatements(
+                                        ListStatements(
+                                          ListStatements(
+                                            ListStatements(
+                                              ListStatements(
+                                                ListStatements(
+                                                  ListStatements(
+                                                    ListStatements(
+                                                      NoStmts(
+                                                      ) [NoStmts]
+                                                      StatementWithoutLabel(
+                                                        MatchedStatementClass(
+                                                          DesignatorStatementMatched(
+                                                            DesignatorStmt(
+                                                              DesignatorParamsAssignopExpr(
+                                                                DesignatorIdentOnly(
+                                                                 bodovi
+                                                                ) [DesignatorIdentOnly]
+                                                                AssignopDerived1(
+                                                                ) [AssignopDerived1]
+                                                                ExprClass(
+                                                                  ExprPositive(
+                                                                    Term(
+                                                                      Factor(
+                                                                        FactorNum(
+                                                                         0
+                                                                        ) [FactorNum]
+                                                                      ) [Factor]
+                                                                      NoMulopFactors(
+                                                                      ) [NoMulopFactors]
+                                                                    ) [Term]
+                                                                    NoListOfAdopTerms(
+                                                                    ) [NoListOfAdopTerms]
+                                                                  ) [ExprPositive]
+                                                                  NoExpr(
+                                                                  ) [NoExpr]
+                                                                ) [ExprClass]
+                                                              ) [DesignatorParamsAssignopExpr]
+                                                            ) [DesignatorStmt]
+                                                          ) [DesignatorStatementMatched]
+                                                        ) [MatchedStatementClass]
+                                                      ) [StatementWithoutLabel]
+                                                    ) [ListStatements]
+                                                    StatementWithoutLabel(
+                                                      MatchedStatementClass(
+                                                        DesignatorStatementMatched(
+                                                          DesignatorStmt(
+                                                            DesignatorParamsInc(
+                                                              DesignatorIdentOnly(
+                                                               bodovi
+                                                              ) [DesignatorIdentOnly]
+                                                              IncPart(
+                                                              ) [IncPart]
+                                                            ) [DesignatorParamsInc]
+                                                          ) [DesignatorStmt]
+                                                        ) [DesignatorStatementMatched]
+                                                      ) [MatchedStatementClass]
+                                                    ) [StatementWithoutLabel]
+                                                  ) [ListStatements]
+                                                  StatementWithoutLabel(
+                                                    MatchedStatementClass(
+                                                      DesignatorStatementMatched(
+                                                        DesignatorStmt(
+                                                          DesignatorParamsAssignopExpr(
+                                                            DesignatorIdentOnly(
+                                                             bodovi
+                                                            ) [DesignatorIdentOnly]
+                                                            AssignopDerived1(
+                                                            ) [AssignopDerived1]
+                                                            ExprClass(
+                                                              ExprPositive(
+                                                                Term(
+                                                                  Factor(
+                                                                    FactorExpr(
+                                                                      ExprClass(
+                                                                        ExprPositive(
+                                                                          Term(
+                                                                            Factor(
+                                                                              FactorDesign(
+                                                                                DesignatorIdentOnly(
+                                                                                 bodovi
+                                                                                ) [DesignatorIdentOnly]
+                                                                              ) [FactorDesign]
+                                                                            ) [Factor]
+                                                                            NoMulopFactors(
+                                                                            ) [NoMulopFactors]
+                                                                          ) [Term]
+                                                                          ListAddopTerms(
+                                                                            NoListOfAdopTerms(
+                                                                            ) [NoListOfAdopTerms]
+                                                                            Plus(
+                                                                            ) [Plus]
+                                                                            Term(
+                                                                              Factor(
+                                                                                FactorDesign(
+                                                                                  DesignatorIdentOnly(
+                                                                                   jedan
+                                                                                  ) [DesignatorIdentOnly]
+                                                                                ) [FactorDesign]
+                                                                              ) [Factor]
+                                                                              NoMulopFactors(
+                                                                              ) [NoMulopFactors]
+                                                                            ) [Term]
+                                                                          ) [ListAddopTerms]
+                                                                        ) [ExprPositive]
+                                                                        NoExpr(
+                                                                        ) [NoExpr]
+                                                                      ) [ExprClass]
+                                                                    ) [FactorExpr]
+                                                                  ) [Factor]
+                                                                  NoMulopFactors(
+                                                                  ) [NoMulopFactors]
+                                                                ) [Term]
+                                                                NoListOfAdopTerms(
+                                                                ) [NoListOfAdopTerms]
+                                                              ) [ExprPositive]
+                                                              ExprExprIsNullClass(
+                                                                IsNull(
+                                                                ) [IsNull]
+                                                                ExprClass(
+                                                                  ExprPositive(
+                                                                    Term(
+                                                                      Factor(
+                                                                        FactorDesign(
+                                                                          DesignatorIdentOnly(
+                                                                           tri
+                                                                          ) [DesignatorIdentOnly]
+                                                                        ) [FactorDesign]
+                                                                      ) [Factor]
+                                                                      NoMulopFactors(
+                                                                      ) [NoMulopFactors]
+                                                                    ) [Term]
+                                                                    NoListOfAdopTerms(
+                                                                    ) [NoListOfAdopTerms]
+                                                                  ) [ExprPositive]
+                                                                  NoExpr(
+                                                                  ) [NoExpr]
+                                                                ) [ExprClass]
+                                                              ) [ExprExprIsNullClass]
+                                                            ) [ExprClass]
+                                                          ) [DesignatorParamsAssignopExpr]
+                                                        ) [DesignatorStmt]
+                                                      ) [DesignatorStatementMatched]
+                                                    ) [MatchedStatementClass]
+                                                  ) [StatementWithoutLabel]
+                                                ) [ListStatements]
+                                                StatementWithoutLabel(
+                                                  MatchedStatementClass(
+                                                    DesignatorStatementMatched(
+                                                      DesignatorStmt(
+                                                        DesignatorParamsAssignopExpr(
+                                                          DesignatorIdentOnly(
+                                                           bodovi
+                                                          ) [DesignatorIdentOnly]
+                                                          AssignopDerived1(
+                                                          ) [AssignopDerived1]
+                                                          ExprClass(
+                                                            ExprPositive(
+                                                              Term(
+                                                                Factor(
+                                                                  FactorDesign(
+                                                                    DesignatorIdentOnly(
+                                                                     bodovi
+                                                                    ) [DesignatorIdentOnly]
+                                                                  ) [FactorDesign]
+                                                                ) [Factor]
+                                                                ListMulopFactors(
+                                                                  NoMulopFactors(
+                                                                  ) [NoMulopFactors]
+                                                                  Mul(
+                                                                  ) [Mul]
+                                                                  Factor(
+                                                                    FactorDesign(
+                                                                      DesignatorIdentOnly(
+                                                                       pet
+                                                                      ) [DesignatorIdentOnly]
+                                                                    ) [FactorDesign]
+                                                                  ) [Factor]
+                                                                ) [ListMulopFactors]
+                                                              ) [Term]
+                                                              NoListOfAdopTerms(
+                                                              ) [NoListOfAdopTerms]
+                                                            ) [ExprPositive]
+                                                            NoExpr(
+                                                            ) [NoExpr]
+                                                          ) [ExprClass]
+                                                        ) [DesignatorParamsAssignopExpr]
+                                                      ) [DesignatorStmt]
+                                                    ) [DesignatorStatementMatched]
+                                                  ) [MatchedStatementClass]
+                                                ) [StatementWithoutLabel]
+                                              ) [ListStatements]
+                                              StatementWithoutLabel(
+                                                MatchedStatementClass(
+                                                  DesignatorStatementMatched(
+                                                    DesignatorStmt(
+                                                      DesignatorParamsDec(
+                                                        DesignatorIdentOnly(
+                                                         bodovi
+                                                        ) [DesignatorIdentOnly]
+                                                        DecPart(
+                                                        ) [DecPart]
+                                                      ) [DesignatorParamsDec]
+                                                    ) [DesignatorStmt]
+                                                  ) [DesignatorStatementMatched]
+                                                ) [MatchedStatementClass]
+                                              ) [StatementWithoutLabel]
+                                            ) [ListStatements]
+                                            StatementWithoutLabel(
+                                              MatchedStatementClass(
+                                                PrintExprStatement(
+                                                  PrintPart(
+                                                  ) [PrintPart]
+                                                  ExprClass(
+                                                    ExprPositive(
+                                                      Term(
+                                                        Factor(
+                                                          FactorDesign(
+                                                            DesignatorIdentOnly(
+                                                             bodovi
+                                                            ) [DesignatorIdentOnly]
+                                                          ) [FactorDesign]
+                                                        ) [Factor]
+                                                        NoMulopFactors(
+                                                        ) [NoMulopFactors]
+                                                      ) [Term]
+                                                      NoListOfAdopTerms(
+                                                      ) [NoListOfAdopTerms]
+                                                    ) [ExprPositive]
+                                                    NoExpr(
+                                                    ) [NoExpr]
+                                                  ) [ExprClass]
+                                                ) [PrintExprStatement]
+                                              ) [MatchedStatementClass]
+                                            ) [StatementWithoutLabel]
+                                          ) [ListStatements]
+                                          StatementWithoutLabel(
+                                            MatchedStatementClass(
+                                              DesignatorStatementMatched(
+                                                DesignatorStmt(
+                                                  DesignatorParamsAssignopExpr(
+                                                    DesignatorIdentOnly(
+                                                     niz
+                                                    ) [DesignatorIdentOnly]
+                                                    AssignopDerived1(
+                                                    ) [AssignopDerived1]
+                                                    ExprClass(
+                                                      ExprPositive(
+                                                        Term(
+                                                          Factor(
+                                                            FactorNewTypeExpr(
+                                                              Type(
+                                                               int
+                                                              ) [Type]
+                                                              ExprClass(
+                                                                ExprPositive(
+                                                                  Term(
+                                                                    Factor(
+                                                                      FactorNum(
+                                                                       3
+                                                                      ) [FactorNum]
+                                                                    ) [Factor]
+                                                                    NoMulopFactors(
+                                                                    ) [NoMulopFactors]
+                                                                  ) [Term]
+                                                                  NoListOfAdopTerms(
+                                                                  ) [NoListOfAdopTerms]
+                                                                ) [ExprPositive]
+                                                                NoExpr(
+                                                                ) [NoExpr]
+                                                              ) [ExprClass]
+                                                            ) [FactorNewTypeExpr]
+                                                          ) [Factor]
+                                                          NoMulopFactors(
+                                                          ) [NoMulopFactors]
+                                                        ) [Term]
+                                                        NoListOfAdopTerms(
+                                                        ) [NoListOfAdopTerms]
+                                                      ) [ExprPositive]
+                                                      NoExpr(
+                                                      ) [NoExpr]
+                                                    ) [ExprClass]
+                                                  ) [DesignatorParamsAssignopExpr]
+                                                ) [DesignatorStmt]
+                                              ) [DesignatorStatementMatched]
+                                            ) [MatchedStatementClass]
+                                          ) [StatementWithoutLabel]
+                                        ) [ListStatements]
+                                        StatementWithoutLabel(
+                                          MatchedStatementClass(
+                                            DesignatorStatementMatched(
+                                              DesignatorStmt(
+                                                DesignatorParamsAssignopExpr(
+                                                  DesignatorArrayExpr(
+                                                    DesignatorIdentOnly(
+                                                     niz
+                                                    ) [DesignatorIdentOnly]
+                                                    ExprClass(
+                                                      ExprPositive(
+                                                        Term(
+                                                          Factor(
+                                                            FactorDesign(
+                                                              DesignatorIdentOnly(
+                                                               nula
+                                                              ) [DesignatorIdentOnly]
+                                                            ) [FactorDesign]
+                                                          ) [Factor]
+                                                          NoMulopFactors(
+                                                          ) [NoMulopFactors]
+                                                        ) [Term]
+                                                        NoListOfAdopTerms(
+                                                        ) [NoListOfAdopTerms]
+                                                      ) [ExprPositive]
+                                                      NoExpr(
+                                                      ) [NoExpr]
+                                                    ) [ExprClass]
+                                                  ) [DesignatorArrayExpr]
+                                                  AssignopDerived1(
+                                                  ) [AssignopDerived1]
+                                                  ExprClass(
+                                                    ExprPositive(
+                                                      Term(
+                                                        Factor(
+                                                          FactorDesign(
+                                                            DesignatorIdentOnly(
+                                                             jedan
+                                                            ) [DesignatorIdentOnly]
+                                                          ) [FactorDesign]
+                                                        ) [Factor]
+                                                        NoMulopFactors(
+                                                        ) [NoMulopFactors]
+                                                      ) [Term]
+                                                      NoListOfAdopTerms(
+                                                      ) [NoListOfAdopTerms]
+                                                    ) [ExprPositive]
+                                                    NoExpr(
+                                                    ) [NoExpr]
+                                                  ) [ExprClass]
+                                                ) [DesignatorParamsAssignopExpr]
+                                              ) [DesignatorStmt]
+                                            ) [DesignatorStatementMatched]
+                                          ) [MatchedStatementClass]
+                                        ) [StatementWithoutLabel]
+                                      ) [ListStatements]
+                                      StatementWithoutLabel(
+                                        MatchedStatementClass(
+                                          DesignatorStatementMatched(
+                                            DesignatorStmt(
+                                              DesignatorParamsAssignopExpr(
+                                                DesignatorArrayExpr(
+                                                  DesignatorIdentOnly(
+                                                   niz
+                                                  ) [DesignatorIdentOnly]
+                                                  ExprClass(
+                                                    ExprPositive(
+                                                      Term(
+                                                        Factor(
+                                                          FactorNum(
+                                                           1
+                                                          ) [FactorNum]
+                                                        ) [Factor]
+                                                        NoMulopFactors(
+                                                        ) [NoMulopFactors]
+                                                      ) [Term]
+                                                      NoListOfAdopTerms(
+                                                      ) [NoListOfAdopTerms]
+                                                    ) [ExprPositive]
+                                                    NoExpr(
+                                                    ) [NoExpr]
+                                                  ) [ExprClass]
+                                                ) [DesignatorArrayExpr]
+                                                AssignopDerived1(
+                                                ) [AssignopDerived1]
+                                                ExprClass(
+                                                  ExprPositive(
+                                                    Term(
+                                                      Factor(
+                                                        FactorNum(
+                                                         2
+                                                        ) [FactorNum]
+                                                      ) [Factor]
+                                                      NoMulopFactors(
+                                                      ) [NoMulopFactors]
+                                                    ) [Term]
+                                                    NoListOfAdopTerms(
+                                                    ) [NoListOfAdopTerms]
+                                                  ) [ExprPositive]
+                                                  NoExpr(
+                                                  ) [NoExpr]
+                                                ) [ExprClass]
+                                              ) [DesignatorParamsAssignopExpr]
+                                            ) [DesignatorStmt]
+                                          ) [DesignatorStatementMatched]
+                                        ) [MatchedStatementClass]
+                                      ) [StatementWithoutLabel]
+                                    ) [ListStatements]
+                                    StatementWithoutLabel(
+                                      MatchedStatementClass(
+                                        DesignatorStatementMatched(
+                                          DesignatorStmt(
+                                            DesignatorParamsAssignopExpr(
+                                              DesignatorArrayExpr(
+                                                DesignatorIdentOnly(
+                                                 niz
+                                                ) [DesignatorIdentOnly]
+                                                ExprClass(
+                                                  ExprPositive(
+                                                    Term(
+                                                      Factor(
+                                                        FactorDesign(
+                                                          DesignatorArrayExpr(
+                                                            DesignatorIdentOnly(
+                                                             niz
+                                                            ) [DesignatorIdentOnly]
+                                                            ExprClass(
+                                                              ExprPositive(
+                                                                Term(
+                                                                  Factor(
+                                                                    FactorDesign(
+                                                                      DesignatorIdentOnly(
+                                                                       jedan
+                                                                      ) [DesignatorIdentOnly]
+                                                                    ) [FactorDesign]
+                                                                  ) [Factor]
+                                                                  NoMulopFactors(
+                                                                  ) [NoMulopFactors]
+                                                                ) [Term]
+                                                                NoListOfAdopTerms(
+                                                                ) [NoListOfAdopTerms]
+                                                              ) [ExprPositive]
+                                                              NoExpr(
+                                                              ) [NoExpr]
+                                                            ) [ExprClass]
+                                                          ) [DesignatorArrayExpr]
+                                                        ) [FactorDesign]
+                                                      ) [Factor]
+                                                      NoMulopFactors(
+                                                      ) [NoMulopFactors]
+                                                    ) [Term]
+                                                    NoListOfAdopTerms(
+                                                    ) [NoListOfAdopTerms]
+                                                  ) [ExprPositive]
+                                                  ExprExprIsNullClass(
+                                                    IsNull(
+                                                    ) [IsNull]
+                                                    ExprClass(
+                                                      ExprNegative(
+                                                        Term(
+                                                          Factor(
+                                                            FactorNum(
+                                                             1
+                                                            ) [FactorNum]
+                                                          ) [Factor]
+                                                          NoMulopFactors(
+                                                          ) [NoMulopFactors]
+                                                        ) [Term]
+                                                        NoListOfAdopTerms(
+                                                        ) [NoListOfAdopTerms]
+                                                      ) [ExprNegative]
+                                                      NoExpr(
+                                                      ) [NoExpr]
+                                                    ) [ExprClass]
+                                                  ) [ExprExprIsNullClass]
+                                                ) [ExprClass]
+                                              ) [DesignatorArrayExpr]
+                                              AssignopDerived1(
+                                              ) [AssignopDerived1]
+                                              ExprClass(
+                                                ExprPositive(
+                                                  Term(
+                                                    Factor(
+                                                      FactorDesign(
+                                                        DesignatorArrayExpr(
+                                                          DesignatorIdentOnly(
+                                                           niz
+                                                          ) [DesignatorIdentOnly]
+                                                          ExprClass(
+                                                            ExprPositive(
+                                                              Term(
+                                                                Factor(
+                                                                  FactorExpr(
+                                                                    ExprClass(
+                                                                      ExprPositive(
+                                                                        Term(
+                                                                          Factor(
+                                                                            FactorDesign(
+                                                                              DesignatorArrayExpr(
+                                                                                DesignatorIdentOnly(
+                                                                                 niz
+                                                                                ) [DesignatorIdentOnly]
+                                                                                ExprClass(
+                                                                                  ExprPositive(
+                                                                                    Term(
+                                                                                      Factor(
+                                                                                        FactorNum(
+                                                                                         0
+                                                                                        ) [FactorNum]
+                                                                                      ) [Factor]
+                                                                                      NoMulopFactors(
+                                                                                      ) [NoMulopFactors]
+                                                                                    ) [Term]
+                                                                                    NoListOfAdopTerms(
+                                                                                    ) [NoListOfAdopTerms]
+                                                                                  ) [ExprPositive]
+                                                                                  NoExpr(
+                                                                                  ) [NoExpr]
+                                                                                ) [ExprClass]
+                                                                              ) [DesignatorArrayExpr]
+                                                                            ) [FactorDesign]
+                                                                          ) [Factor]
+                                                                          NoMulopFactors(
+                                                                          ) [NoMulopFactors]
+                                                                        ) [Term]
+                                                                        ListAddopTerms(
+                                                                          NoListOfAdopTerms(
+                                                                          ) [NoListOfAdopTerms]
+                                                                          Minus(
+                                                                          ) [Minus]
+                                                                          Term(
+                                                                            Factor(
+                                                                              FactorDesign(
+                                                                                DesignatorIdentOnly(
+                                                                                 jedan
+                                                                                ) [DesignatorIdentOnly]
+                                                                              ) [FactorDesign]
+                                                                            ) [Factor]
+                                                                            NoMulopFactors(
+                                                                            ) [NoMulopFactors]
+                                                                          ) [Term]
+                                                                        ) [ListAddopTerms]
+                                                                      ) [ExprPositive]
+                                                                      NoExpr(
+                                                                      ) [NoExpr]
+                                                                    ) [ExprClass]
+                                                                  ) [FactorExpr]
+                                                                ) [Factor]
+                                                                NoMulopFactors(
+                                                                ) [NoMulopFactors]
+                                                              ) [Term]
+                                                              NoListOfAdopTerms(
+                                                              ) [NoListOfAdopTerms]
+                                                            ) [ExprPositive]
+                                                            ExprExprIsNullClass(
+                                                              IsNull(
+                                                              ) [IsNull]
+                                                              ExprClass(
+                                                                ExprPositive(
+                                                                  Term(
+                                                                    Factor(
+                                                                      FactorExpr(
+                                                                        ExprClass(
+                                                                          ExprPositive(
+                                                                            Term(
+                                                                              Factor(
+                                                                                FactorDesign(
+                                                                                  DesignatorIdentOnly(
+                                                                                   bodovi
+                                                                                  ) [DesignatorIdentOnly]
+                                                                                ) [FactorDesign]
+                                                                              ) [Factor]
+                                                                              ListMulopFactors(
+                                                                                NoMulopFactors(
+                                                                                ) [NoMulopFactors]
+                                                                                Mul(
+                                                                                ) [Mul]
+                                                                                Factor(
+                                                                                  FactorDesign(
+                                                                                    DesignatorIdentOnly(
+                                                                                     nula
+                                                                                    ) [DesignatorIdentOnly]
+                                                                                  ) [FactorDesign]
+                                                                                ) [Factor]
+                                                                              ) [ListMulopFactors]
+                                                                            ) [Term]
+                                                                            NoListOfAdopTerms(
+                                                                            ) [NoListOfAdopTerms]
+                                                                          ) [ExprPositive]
+                                                                          ExprExprIsNullClass(
+                                                                            IsNull(
+                                                                            ) [IsNull]
+                                                                            ExprClass(
+                                                                              ExprPositive(
+                                                                                Term(
+                                                                                  Factor(
+                                                                                    FactorDesign(
+                                                                                      DesignatorIdentOnly(
+                                                                                       jedan
+                                                                                      ) [DesignatorIdentOnly]
+                                                                                    ) [FactorDesign]
+                                                                                  ) [Factor]
+                                                                                  NoMulopFactors(
+                                                                                  ) [NoMulopFactors]
+                                                                                ) [Term]
+                                                                                NoListOfAdopTerms(
+                                                                                ) [NoListOfAdopTerms]
+                                                                              ) [ExprPositive]
+                                                                              NoExpr(
+                                                                              ) [NoExpr]
+                                                                            ) [ExprClass]
+                                                                          ) [ExprExprIsNullClass]
+                                                                        ) [ExprClass]
+                                                                      ) [FactorExpr]
+                                                                    ) [Factor]
+                                                                    NoMulopFactors(
+                                                                    ) [NoMulopFactors]
+                                                                  ) [Term]
+                                                                  NoListOfAdopTerms(
+                                                                  ) [NoListOfAdopTerms]
+                                                                ) [ExprPositive]
+                                                                NoExpr(
+                                                                ) [NoExpr]
+                                                              ) [ExprClass]
+                                                            ) [ExprExprIsNullClass]
+                                                          ) [ExprClass]
+                                                        ) [DesignatorArrayExpr]
+                                                      ) [FactorDesign]
+                                                    ) [Factor]
+                                                    ListMulopFactors(
+                                                      NoMulopFactors(
+                                                      ) [NoMulopFactors]
+                                                      Mul(
+                                                      ) [Mul]
+                                                      Factor(
+                                                        FactorNum(
+                                                         3
+                                                        ) [FactorNum]
+                                                      ) [Factor]
+                                                    ) [ListMulopFactors]
+                                                  ) [Term]
+                                                  NoListOfAdopTerms(
+                                                  ) [NoListOfAdopTerms]
+                                                ) [ExprPositive]
+                                                NoExpr(
+                                                ) [NoExpr]
+                                              ) [ExprClass]
+                                            ) [DesignatorParamsAssignopExpr]
+                                          ) [DesignatorStmt]
+                                        ) [DesignatorStatementMatched]
+                                      ) [MatchedStatementClass]
+                                    ) [StatementWithoutLabel]
+                                  ) [ListStatements]
+                                  StatementWithoutLabel(
+                                    MatchedStatementClass(
+                                      DesignatorStatementMatched(
+                                        DesignatorStmt(
+                                          DesignatorParamsAssignopExpr(
+                                            DesignatorIdentOnly(
+                                             bodovi
+                                            ) [DesignatorIdentOnly]
+                                            AssignopDerived1(
+                                            ) [AssignopDerived1]
+                                            ExprClass(
+                                              ExprPositive(
+                                                Term(
+                                                  Factor(
+                                                    FactorDesign(
+                                                      DesignatorArrayExpr(
+                                                        DesignatorIdentOnly(
+                                                         niz
+                                                        ) [DesignatorIdentOnly]
+                                                        ExprClass(
+                                                          ExprPositive(
+                                                            Term(
+                                                              Factor(
+                                                                FactorNum(
+                                                                 2
+                                                                ) [FactorNum]
+                                                              ) [Factor]
+                                                              NoMulopFactors(
+                                                              ) [NoMulopFactors]
+                                                            ) [Term]
+                                                            NoListOfAdopTerms(
+                                                            ) [NoListOfAdopTerms]
+                                                          ) [ExprPositive]
+                                                          NoExpr(
+                                                          ) [NoExpr]
+                                                        ) [ExprClass]
+                                                      ) [DesignatorArrayExpr]
+                                                    ) [FactorDesign]
+                                                  ) [Factor]
+                                                  ListMulopFactors(
+                                                    NoMulopFactors(
+                                                    ) [NoMulopFactors]
+                                                    Div(
+                                                    ) [Div]
+                                                    Factor(
+                                                      FactorDesign(
+                                                        DesignatorArrayExpr(
+                                                          DesignatorIdentOnly(
+                                                           niz
+                                                          ) [DesignatorIdentOnly]
+                                                          ExprClass(
+                                                            ExprPositive(
+                                                              Term(
+                                                                Factor(
+                                                                  FactorNum(
+                                                                   0
+                                                                  ) [FactorNum]
+                                                                ) [Factor]
+                                                                NoMulopFactors(
+                                                                ) [NoMulopFactors]
+                                                              ) [Term]
+                                                              NoListOfAdopTerms(
+                                                              ) [NoListOfAdopTerms]
+                                                            ) [ExprPositive]
+                                                            NoExpr(
+                                                            ) [NoExpr]
+                                                          ) [ExprClass]
+                                                        ) [DesignatorArrayExpr]
+                                                      ) [FactorDesign]
+                                                    ) [Factor]
+                                                  ) [ListMulopFactors]
+                                                ) [Term]
+                                                NoListOfAdopTerms(
+                                                ) [NoListOfAdopTerms]
+                                              ) [ExprPositive]
+                                              NoExpr(
+                                              ) [NoExpr]
+                                            ) [ExprClass]
+                                          ) [DesignatorParamsAssignopExpr]
+                                        ) [DesignatorStmt]
+                                      ) [DesignatorStatementMatched]
+                                    ) [MatchedStatementClass]
+                                  ) [StatementWithoutLabel]
+                                ) [ListStatements]
+                                StatementWithoutLabel(
+                                  MatchedStatementClass(
+                                    PrintExprStatement(
+                                      PrintPart(
+                                      ) [PrintPart]
+                                      ExprClass(
+                                        ExprPositive(
+                                          Term(
+                                            Factor(
+                                              FactorDesign(
+                                                DesignatorIdentOnly(
+                                                 bodovi
+                                                ) [DesignatorIdentOnly]
+                                              ) [FactorDesign]
+                                            ) [Factor]
+                                            NoMulopFactors(
+                                            ) [NoMulopFactors]
+                                          ) [Term]
+                                          NoListOfAdopTerms(
+                                          ) [NoListOfAdopTerms]
+                                        ) [ExprPositive]
+                                        NoExpr(
+                                        ) [NoExpr]
+                                      ) [ExprClass]
+                                    ) [PrintExprStatement]
+                                  ) [MatchedStatementClass]
+                                ) [StatementWithoutLabel]
+                              ) [ListStatements]
+                              StatementWithoutLabel(
+                                MatchedStatementClass(
+                                  PrintExprStatement(
+                                    PrintPart(
+                                    ) [PrintPart]
+                                    ExprClass(
+                                      ExprPositive(
+                                        Term(
+                                          Factor(
+                                            FactorDesign(
+                                              DesignatorArrayExpr(
+                                                DesignatorIdentOnly(
+                                                 niz
+                                                ) [DesignatorIdentOnly]
+                                                ExprClass(
+                                                  ExprPositive(
+                                                    Term(
+                                                      Factor(
+                                                        FactorNum(
+                                                         2
+                                                        ) [FactorNum]
+                                                      ) [Factor]
+                                                      NoMulopFactors(
+                                                      ) [NoMulopFactors]
+                                                    ) [Term]
+                                                    NoListOfAdopTerms(
+                                                    ) [NoListOfAdopTerms]
+                                                  ) [ExprPositive]
+                                                  NoExpr(
+                                                  ) [NoExpr]
+                                                ) [ExprClass]
+                                              ) [DesignatorArrayExpr]
+                                            ) [FactorDesign]
+                                          ) [Factor]
+                                          NoMulopFactors(
+                                          ) [NoMulopFactors]
+                                        ) [Term]
+                                        NoListOfAdopTerms(
+                                        ) [NoListOfAdopTerms]
+                                      ) [ExprPositive]
+                                      NoExpr(
+                                      ) [NoExpr]
+                                    ) [ExprClass]
+                                  ) [PrintExprStatement]
+                                ) [MatchedStatementClass]
+                              ) [StatementWithoutLabel]
+                            ) [ListStatements]
+                            StatementWithoutLabel(
+                              MatchedStatementClass(
+                                DesignatorStatementMatched(
+                                  DesignatorStmt(
+                                    DesignatorParamsAssignopExpr(
+                                      DesignatorIdentOnly(
+                                       nizch
+                                      ) [DesignatorIdentOnly]
+                                      AssignopDerived1(
+                                      ) [AssignopDerived1]
+                                      ExprClass(
+                                        ExprPositive(
+                                          Term(
+                                            Factor(
+                                              FactorNewTypeExpr(
+                                                Type(
+                                                 char
+                                                ) [Type]
+                                                ExprClass(
+                                                  ExprPositive(
+                                                    Term(
+                                                      Factor(
+                                                        FactorNum(
+                                                         3
+                                                        ) [FactorNum]
+                                                      ) [Factor]
+                                                      NoMulopFactors(
+                                                      ) [NoMulopFactors]
+                                                    ) [Term]
+                                                    NoListOfAdopTerms(
+                                                    ) [NoListOfAdopTerms]
+                                                  ) [ExprPositive]
+                                                  NoExpr(
+                                                  ) [NoExpr]
+                                                ) [ExprClass]
+                                              ) [FactorNewTypeExpr]
+                                            ) [Factor]
+                                            NoMulopFactors(
+                                            ) [NoMulopFactors]
+                                          ) [Term]
+                                          NoListOfAdopTerms(
+                                          ) [NoListOfAdopTerms]
+                                        ) [ExprPositive]
+                                        NoExpr(
+                                        ) [NoExpr]
+                                      ) [ExprClass]
+                                    ) [DesignatorParamsAssignopExpr]
+                                  ) [DesignatorStmt]
+                                ) [DesignatorStatementMatched]
+                              ) [MatchedStatementClass]
+                            ) [StatementWithoutLabel]
+                          ) [ListStatements]
+                          StatementWithoutLabel(
+                            MatchedStatementClass(
+                              DesignatorStatementMatched(
+                                DesignatorStmt(
+                                  DesignatorParamsAssignopExpr(
+                                    DesignatorArrayExpr(
+                                      DesignatorIdentOnly(
+                                       nizch
+                                      ) [DesignatorIdentOnly]
+                                      ExprClass(
+                                        ExprPositive(
+                                          Term(
+                                            Factor(
+                                              FactorNum(
+                                               0
+                                              ) [FactorNum]
+                                            ) [Factor]
+                                            NoMulopFactors(
+                                            ) [NoMulopFactors]
+                                          ) [Term]
+                                          NoListOfAdopTerms(
+                                          ) [NoListOfAdopTerms]
+                                        ) [ExprPositive]
+                                        NoExpr(
+                                        ) [NoExpr]
+                                      ) [ExprClass]
+                                    ) [DesignatorArrayExpr]
+                                    AssignopDerived1(
+                                    ) [AssignopDerived1]
+                                    ExprClass(
+                                      ExprPositive(
+                                        Term(
+                                          Factor(
+                                            FactorChar(
+                                             a
+                                            ) [FactorChar]
+                                          ) [Factor]
+                                          NoMulopFactors(
+                                          ) [NoMulopFactors]
+                                        ) [Term]
+                                        NoListOfAdopTerms(
+                                        ) [NoListOfAdopTerms]
+                                      ) [ExprPositive]
+                                      NoExpr(
+                                      ) [NoExpr]
+                                    ) [ExprClass]
+                                  ) [DesignatorParamsAssignopExpr]
+                                ) [DesignatorStmt]
+                              ) [DesignatorStatementMatched]
+                            ) [MatchedStatementClass]
+                          ) [StatementWithoutLabel]
+                        ) [ListStatements]
+                        StatementWithoutLabel(
+                          MatchedStatementClass(
+                            DesignatorStatementMatched(
+                              DesignatorStmt(
+                                DesignatorParamsAssignopExpr(
+                                  DesignatorArrayExpr(
+                                    DesignatorIdentOnly(
+                                     nizch
+                                    ) [DesignatorIdentOnly]
+                                    ExprClass(
+                                      ExprPositive(
+                                        Term(
+                                          Factor(
+                                            FactorDesign(
+                                              DesignatorIdentOnly(
+                                               jedan
+                                              ) [DesignatorIdentOnly]
+                                            ) [FactorDesign]
+                                          ) [Factor]
+                                          NoMulopFactors(
+                                          ) [NoMulopFactors]
+                                        ) [Term]
+                                        NoListOfAdopTerms(
+                                        ) [NoListOfAdopTerms]
+                                      ) [ExprPositive]
+                                      NoExpr(
+                                      ) [NoExpr]
+                                    ) [ExprClass]
+                                  ) [DesignatorArrayExpr]
+                                  AssignopDerived1(
+                                  ) [AssignopDerived1]
+                                  ExprClass(
+                                    ExprPositive(
+                                      Term(
+                                        Factor(
+                                          FactorChar(
+                                           b
+                                          ) [FactorChar]
+                                        ) [Factor]
+                                        NoMulopFactors(
+                                        ) [NoMulopFactors]
+                                      ) [Term]
+                                      NoListOfAdopTerms(
+                                      ) [NoListOfAdopTerms]
+                                    ) [ExprPositive]
+                                    NoExpr(
+                                    ) [NoExpr]
+                                  ) [ExprClass]
+                                ) [DesignatorParamsAssignopExpr]
+                              ) [DesignatorStmt]
+                            ) [DesignatorStatementMatched]
+                          ) [MatchedStatementClass]
+                        ) [StatementWithoutLabel]
+                      ) [ListStatements]
+                      StatementWithoutLabel(
+                        MatchedStatementClass(
+                          DesignatorStatementMatched(
+                            DesignatorStmt(
+                              DesignatorParamsAssignopExpr(
+                                DesignatorArrayExpr(
+                                  DesignatorIdentOnly(
+                                   nizch
+                                  ) [DesignatorIdentOnly]
+                                  ExprClass(
+                                    ExprPositive(
+                                      Term(
+                                        Factor(
+                                          FactorDesign(
+                                            DesignatorIdentOnly(
+                                             pet
+                                            ) [DesignatorIdentOnly]
+                                          ) [FactorDesign]
+                                        ) [Factor]
+                                        NoMulopFactors(
+                                        ) [NoMulopFactors]
+                                      ) [Term]
+                                      ListAddopTerms(
+                                        NoListOfAdopTerms(
+                                        ) [NoListOfAdopTerms]
+                                        Minus(
+                                        ) [Minus]
+                                        Term(
+                                          Factor(
+                                            FactorNum(
+                                             3
+                                            ) [FactorNum]
+                                          ) [Factor]
+                                          NoMulopFactors(
+                                          ) [NoMulopFactors]
+                                        ) [Term]
+                                      ) [ListAddopTerms]
+                                    ) [ExprPositive]
+                                    NoExpr(
+                                    ) [NoExpr]
+                                  ) [ExprClass]
+                                ) [DesignatorArrayExpr]
+                                AssignopDerived1(
+                                ) [AssignopDerived1]
+                                ExprClass(
+                                  ExprPositive(
+                                    Term(
+                                      Factor(
+                                        FactorChar(
+                                         c
+                                        ) [FactorChar]
+                                      ) [Factor]
+                                      NoMulopFactors(
+                                      ) [NoMulopFactors]
+                                    ) [Term]
+                                    NoListOfAdopTerms(
+                                    ) [NoListOfAdopTerms]
+                                  ) [ExprPositive]
+                                  NoExpr(
+                                  ) [NoExpr]
+                                ) [ExprClass]
+                              ) [DesignatorParamsAssignopExpr]
+                            ) [DesignatorStmt]
+                          ) [DesignatorStatementMatched]
+                        ) [MatchedStatementClass]
+                      ) [StatementWithoutLabel]
+                    ) [ListStatements]
+                    StatementWithoutLabel(
+                      MatchedStatementClass(
+                        PrintExprStatement(
+                          PrintPart(
+                          ) [PrintPart]
+                          ExprClass(
+                            ExprPositive(
+                              Term(
+                                Factor(
+                                  FactorDesign(
+                                    DesignatorArrayExpr(
+                                      DesignatorIdentOnly(
+                                       nizch
+                                      ) [DesignatorIdentOnly]
+                                      ExprClass(
+                                        ExprPositive(
+                                          Term(
+                                            Factor(
+                                              FactorNum(
+                                               1
+                                              ) [FactorNum]
+                                            ) [Factor]
+                                            NoMulopFactors(
+                                            ) [NoMulopFactors]
+                                          ) [Term]
+                                          NoListOfAdopTerms(
+                                          ) [NoListOfAdopTerms]
+                                        ) [ExprPositive]
+                                        NoExpr(
+                                        ) [NoExpr]
+                                      ) [ExprClass]
+                                    ) [DesignatorArrayExpr]
+                                  ) [FactorDesign]
+                                ) [Factor]
+                                NoMulopFactors(
+                                ) [NoMulopFactors]
+                              ) [Term]
+                              NoListOfAdopTerms(
+                              ) [NoListOfAdopTerms]
+                            ) [ExprPositive]
+                            NoExpr(
+                            ) [NoExpr]
+                          ) [ExprClass]
+                        ) [PrintExprStatement]
+                      ) [MatchedStatementClass]
+                    ) [StatementWithoutLabel]
+                  ) [ListStatements]
+                  StatementWithoutLabel(
+                    MatchedStatementClass(
+                      PrintExprStatement(
+                        PrintPart(
+                        ) [PrintPart]
+                        ExprClass(
+                          ExprPositive(
+                            Term(
+                              Factor(
+                                FactorDesign(
+                                  DesignatorArrayExpr(
+                                    DesignatorIdentOnly(
+                                     nizch
+                                    ) [DesignatorIdentOnly]
+                                    ExprClass(
+                                      ExprPositive(
+                                        Term(
+                                          Factor(
+                                            FactorDesign(
+                                              DesignatorIdentOnly(
+                                               jedan
+                                              ) [DesignatorIdentOnly]
+                                            ) [FactorDesign]
+                                          ) [Factor]
+                                          ListMulopFactors(
+                                            NoMulopFactors(
+                                            ) [NoMulopFactors]
+                                            Mul(
+                                            ) [Mul]
+                                            Factor(
+                                              FactorNum(
+                                               2
+                                              ) [FactorNum]
+                                            ) [Factor]
+                                          ) [ListMulopFactors]
+                                        ) [Term]
+                                        NoListOfAdopTerms(
+                                        ) [NoListOfAdopTerms]
+                                      ) [ExprPositive]
+                                      NoExpr(
+                                      ) [NoExpr]
+                                    ) [ExprClass]
+                                  ) [DesignatorArrayExpr]
+                                ) [FactorDesign]
+                              ) [Factor]
+                              NoMulopFactors(
+                              ) [NoMulopFactors]
+                            ) [Term]
+                            NoListOfAdopTerms(
+                            ) [NoListOfAdopTerms]
+                          ) [ExprPositive]
+                          NoExpr(
+                          ) [NoExpr]
+                        ) [ExprClass]
+                      ) [PrintExprStatement]
+                    ) [MatchedStatementClass]
+                  ) [StatementWithoutLabel]
+                ) [ListStatements]
+                StatementWithoutLabel(
+                  MatchedStatementClass(
+                    DesignatorStatementMatched(
+                      DesignatorStmt(
+                        DesignatorParamsAssignopExpr(
+                          DesignatorIdentOnly(
+                           bodovi
+                          ) [DesignatorIdentOnly]
+                          AssignopDerived1(
+                          ) [AssignopDerived1]
+                          ExprClass(
+                            ExprPositive(
+                              Term(
+                                Factor(
+                                  FactorDesign(
+                                    DesignatorIdentOnly(
+                                     bodovi
+                                    ) [DesignatorIdentOnly]
+                                  ) [FactorDesign]
+                                ) [Factor]
+                                NoMulopFactors(
+                                ) [NoMulopFactors]
+                              ) [Term]
+                              ListAddopTerms(
+                                ListAddopTerms(
+                                  NoListOfAdopTerms(
+                                  ) [NoListOfAdopTerms]
+                                  Plus(
+                                  ) [Plus]
+                                  Term(
+                                    Factor(
+                                      FactorExpr(
+                                        ExprClass(
+                                          ExprPositive(
+                                            Term(
+                                              Factor(
+                                                FactorDesign(
+                                                  DesignatorIdentOnly(
+                                                   pet
+                                                  ) [DesignatorIdentOnly]
+                                                ) [FactorDesign]
+                                              ) [Factor]
+                                              ListMulopFactors(
+                                                NoMulopFactors(
+                                                ) [NoMulopFactors]
+                                                Mul(
+                                                ) [Mul]
+                                                Factor(
+                                                  FactorDesign(
+                                                    DesignatorIdentOnly(
+                                                     jedan
+                                                    ) [DesignatorIdentOnly]
+                                                  ) [FactorDesign]
+                                                ) [Factor]
+                                              ) [ListMulopFactors]
+                                            ) [Term]
+                                            ListAddopTerms(
+                                              NoListOfAdopTerms(
+                                              ) [NoListOfAdopTerms]
+                                              Minus(
+                                              ) [Minus]
+                                              Term(
+                                                Factor(
+                                                  FactorNum(
+                                                   1
+                                                  ) [FactorNum]
+                                                ) [Factor]
+                                                NoMulopFactors(
+                                                ) [NoMulopFactors]
+                                              ) [Term]
+                                            ) [ListAddopTerms]
+                                          ) [ExprPositive]
+                                          NoExpr(
+                                          ) [NoExpr]
+                                        ) [ExprClass]
+                                      ) [FactorExpr]
+                                    ) [Factor]
+                                    ListMulopFactors(
+                                      NoMulopFactors(
+                                      ) [NoMulopFactors]
+                                      Mul(
+                                      ) [Mul]
+                                      Factor(
+                                        FactorDesign(
+                                          DesignatorIdentOnly(
+                                           bodovi
+                                          ) [DesignatorIdentOnly]
+                                        ) [FactorDesign]
+                                      ) [Factor]
+                                    ) [ListMulopFactors]
+                                  ) [Term]
+                                ) [ListAddopTerms]
+                                Minus(
+                                ) [Minus]
+                                Term(
+                                  Factor(
+                                    FactorExpr(
+                                      ExprClass(
+                                        ExprPositive(
+                                          Term(
+                                            Factor(
+                                              FactorNum(
+                                               3
+                                              ) [FactorNum]
+                                            ) [Factor]
+                                            ListMulopFactors(
+                                              NoMulopFactors(
+                                              ) [NoMulopFactors]
+                                              Mod(
+                                              ) [Mod]
+                                              Factor(
+                                                FactorNum(
+                                                 2
+                                                ) [FactorNum]
+                                              ) [Factor]
+                                            ) [ListMulopFactors]
+                                          ) [Term]
+                                          ListAddopTerms(
+                                            ListAddopTerms(
+                                              NoListOfAdopTerms(
+                                              ) [NoListOfAdopTerms]
+                                              Plus(
+                                              ) [Plus]
+                                              Term(
+                                                Factor(
+                                                  FactorNum(
+                                                   3
+                                                  ) [FactorNum]
+                                                ) [Factor]
+                                                ListMulopFactors(
+                                                  NoMulopFactors(
+                                                  ) [NoMulopFactors]
+                                                  Mul(
+                                                  ) [Mul]
+                                                  Factor(
+                                                    FactorNum(
+                                                     2
+                                                    ) [FactorNum]
+                                                  ) [Factor]
+                                                ) [ListMulopFactors]
+                                              ) [Term]
+                                            ) [ListAddopTerms]
+                                            Minus(
+                                            ) [Minus]
+                                            Term(
+                                              Factor(
+                                                FactorNum(
+                                                 3
+                                                ) [FactorNum]
+                                              ) [Factor]
+                                              NoMulopFactors(
+                                              ) [NoMulopFactors]
+                                            ) [Term]
+                                          ) [ListAddopTerms]
+                                        ) [ExprPositive]
+                                        NoExpr(
+                                        ) [NoExpr]
+                                      ) [ExprClass]
+                                    ) [FactorExpr]
+                                  ) [Factor]
+                                  NoMulopFactors(
+                                  ) [NoMulopFactors]
+                                ) [Term]
+                              ) [ListAddopTerms]
+                            ) [ExprPositive]
+                            NoExpr(
+                            ) [NoExpr]
+                          ) [ExprClass]
+                        ) [DesignatorParamsAssignopExpr]
+                      ) [DesignatorStmt]
+                    ) [DesignatorStatementMatched]
+                  ) [MatchedStatementClass]
+                ) [StatementWithoutLabel]
+              ) [ListStatements]
+              StatementWithoutLabel(
+                MatchedStatementClass(
+                  PrintExprStatement(
+                    PrintPart(
+                    ) [PrintPart]
+                    ExprClass(
+                      ExprPositive(
+                        Term(
+                          Factor(
+                            FactorDesign(
+                              DesignatorIdentOnly(
+                               bodovi
+                              ) [DesignatorIdentOnly]
+                            ) [FactorDesign]
+                          ) [Factor]
+                          NoMulopFactors(
+                          ) [NoMulopFactors]
+                        ) [Term]
+                        NoListOfAdopTerms(
+                        ) [NoListOfAdopTerms]
+                      ) [ExprPositive]
+                      NoExpr(
+                      ) [NoExpr]
+                    ) [ExprClass]
+                  ) [PrintExprStatement]
+                ) [MatchedStatementClass]
+              ) [StatementWithoutLabel]
+            ) [ListStatements]
+            StatementWithoutLabel(
+              MatchedStatementClass(
+                ReadStatement(
+                  ReadPart(
+                  ) [ReadPart]
+                  DesignatorIdentOnly(
+                   bodovi
+                  ) [DesignatorIdentOnly]
+                ) [ReadStatement]
+              ) [MatchedStatementClass]
+            ) [StatementWithoutLabel]
+          ) [ListStatements]
+          StatementWithoutLabel(
+            MatchedStatementClass(
+              PrintExprStatement(
+                PrintPart(
+                ) [PrintPart]
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorDesign(
+                          DesignatorIdentOnly(
+                           bodovi
+                          ) [DesignatorIdentOnly]
+                        ) [FactorDesign]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [PrintExprStatement]
+            ) [MatchedStatementClass]
+          ) [StatementWithoutLabel]
+        ) [ListStatements]
+      ) [Statements]
+    ) [MethodDeclr]
+  ) [ListMethodDecls]
+) [Program]
+INFO  05:58:49,949 - ===================================
+INFO  05:58:49,955 - Program name is: test301 na liniji 3
+INFO  05:58:49,956 - Type: int visited na liniji 5
+INFO  05:58:49,956 - ConstExpr: nula visited(type is: Int, value is: 0) na liniji 5
+INFO  05:58:49,956 - ConstDeclaration visited na liniji 5
+INFO  05:58:49,956 - Type: int visited na liniji 6
+INFO  05:58:49,956 - ConstExpr: jedan visited(type is: Int, value is: 1) na liniji 6
+INFO  05:58:49,957 - ConstDeclaration visited na liniji 6
+INFO  05:58:49,957 - Type: int visited na liniji 7
+INFO  05:58:49,957 - ConstExpr: tri visited(type is: Int, value is: 3) na liniji 7
+INFO  05:58:49,957 - ConstDeclaration visited na liniji 7
+INFO  05:58:49,957 - Type: int visited na liniji 8
+INFO  05:58:49,957 - ConstExpr: pet visited(type is: Int, value is: 5) na liniji 8
+INFO  05:58:49,957 - ConstDeclaration visited na liniji 8
+INFO  05:58:49,957 - Type: int visited na liniji 10
+INFO  05:58:49,957 - Variable array: niz declared na liniji 10
+INFO  05:58:49,957 - VarDeclaration visited na liniji 10
+INFO  05:58:49,957 - Type: char visited na liniji 11
+INFO  05:58:49,957 - Variable array: nizch declared na liniji 11
+INFO  05:58:49,957 - VarDeclaration visited na liniji 11
+INFO  05:58:49,957 - Method: main is visiting... ret type is: void na liniji 14
+INFO  05:58:49,957 - Type: int visited na liniji 15
+INFO  05:58:49,957 - Variable: bodovi declared na liniji 15
+INFO  05:58:49,958 - VarDeclaration visited na liniji 15
+INFO  05:58:49,958 - Type: bool visited na liniji 16
+INFO  05:58:49,958 - Variable: bt declared na liniji 16
+INFO  05:58:49,958 - VarDeclaration visited na liniji 16
+INFO  05:58:49,958 - Value assignment is processing (designator name: bodovi, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorNum(
+         0
+        ) [FactorNum]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,958 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 18
+INFO  05:58:49,958 - DesignatorParamsInc visited. Inc operation is processing... na liniji 19
+INFO  05:58:49,959 - Value assignment is processing (designator name: bodovi, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorExpr(
+          ExprClass(
+            ExprPositive(
+              Term(
+                Factor(
+                  FactorDesign(
+                    DesignatorIdentOnly(
+                     bodovi
+                    ) [DesignatorIdentOnly]
+                  ) [FactorDesign]
+                ) [Factor]
+                NoMulopFactors(
+                ) [NoMulopFactors]
+              ) [Term]
+              ListAddopTerms(
+                NoListOfAdopTerms(
+                ) [NoListOfAdopTerms]
+                Plus(
+                ) [Plus]
+                Term(
+                  Factor(
+                    FactorDesign(
+                      DesignatorIdentOnly(
+                       jedan
+                      ) [DesignatorIdentOnly]
+                    ) [FactorDesign]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+              ) [ListAddopTerms]
+            ) [ExprPositive]
+            NoExpr(
+            ) [NoExpr]
+          ) [ExprClass]
+        ) [FactorExpr]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  ExprExprIsNullClass(
+    IsNull(
+    ) [IsNull]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               tri
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+      ) [ExprPositive]
+      NoExpr(
+      ) [NoExpr]
+    ) [ExprClass]
+  ) [ExprExprIsNullClass]
+) [ExprClass]
+INFO  05:58:49,959 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 20
+INFO  05:58:49,960 - Value assignment is processing (designator name: bodovi, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorDesign(
+          DesignatorIdentOnly(
+           bodovi
+          ) [DesignatorIdentOnly]
+        ) [FactorDesign]
+      ) [Factor]
+      ListMulopFactors(
+        NoMulopFactors(
+        ) [NoMulopFactors]
+        Mul(
+        ) [Mul]
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             pet
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+      ) [ListMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,960 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 21
+INFO  05:58:49,960 - DesignatorParamsDec visited. Dec operation is processing... na liniji 22
+INFO  05:58:49,960 - PrintStatement visited. Print operation is processing... na liniji 23
+INFO  05:58:49,960 - Type: int visited na liniji 26
+INFO  05:58:49,961 - Value assignment is processing (designator name: niz, type: Array; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorNewTypeExpr(
+          Type(
+           int
+          ) [Type]
+          ExprClass(
+            ExprPositive(
+              Term(
+                Factor(
+                  FactorNum(
+                   3
+                  ) [FactorNum]
+                ) [Factor]
+                NoMulopFactors(
+                ) [NoMulopFactors]
+              ) [Term]
+              NoListOfAdopTerms(
+              ) [NoListOfAdopTerms]
+            ) [ExprPositive]
+            NoExpr(
+            ) [NoExpr]
+          ) [ExprClass]
+        ) [FactorNewTypeExpr]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,961 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 26
+INFO  05:58:49,961 - DesignatorArrayExpr visited. Array name is: niz na liniji 27
+INFO  05:58:49,961 - Value assignment is processing (designator name: niz, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorDesign(
+          DesignatorIdentOnly(
+           jedan
+          ) [DesignatorIdentOnly]
+        ) [FactorDesign]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,961 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 27
+INFO  05:58:49,961 - DesignatorArrayExpr visited. Array name is: niz na liniji 28
+INFO  05:58:49,962 - Value assignment is processing (designator name: niz, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorNum(
+         2
+        ) [FactorNum]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,962 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 28
+INFO  05:58:49,962 - DesignatorArrayExpr visited. Array name is: niz na liniji 29
+INFO  05:58:49,962 - DesignatorArrayExpr visited. Array name is: niz na liniji 29
+INFO  05:58:49,962 - DesignatorArrayExpr visited. Array name is: niz na liniji 29
+INFO  05:58:49,963 - DesignatorArrayExpr visited. Array name is: niz na liniji 29
+INFO  05:58:49,964 - Value assignment is processing (designator name: niz, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorDesign(
+          DesignatorArrayExpr(
+            DesignatorIdentOnly(
+             niz
+            ) [DesignatorIdentOnly]
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorExpr(
+                      ExprClass(
+                        ExprPositive(
+                          Term(
+                            Factor(
+                              FactorDesign(
+                                DesignatorArrayExpr(
+                                  DesignatorIdentOnly(
+                                   niz
+                                  ) [DesignatorIdentOnly]
+                                  ExprClass(
+                                    ExprPositive(
+                                      Term(
+                                        Factor(
+                                          FactorNum(
+                                           0
+                                          ) [FactorNum]
+                                        ) [Factor]
+                                        NoMulopFactors(
+                                        ) [NoMulopFactors]
+                                      ) [Term]
+                                      NoListOfAdopTerms(
+                                      ) [NoListOfAdopTerms]
+                                    ) [ExprPositive]
+                                    NoExpr(
+                                    ) [NoExpr]
+                                  ) [ExprClass]
+                                ) [DesignatorArrayExpr]
+                              ) [FactorDesign]
+                            ) [Factor]
+                            NoMulopFactors(
+                            ) [NoMulopFactors]
+                          ) [Term]
+                          ListAddopTerms(
+                            NoListOfAdopTerms(
+                            ) [NoListOfAdopTerms]
+                            Minus(
+                            ) [Minus]
+                            Term(
+                              Factor(
+                                FactorDesign(
+                                  DesignatorIdentOnly(
+                                   jedan
+                                  ) [DesignatorIdentOnly]
+                                ) [FactorDesign]
+                              ) [Factor]
+                              NoMulopFactors(
+                              ) [NoMulopFactors]
+                            ) [Term]
+                          ) [ListAddopTerms]
+                        ) [ExprPositive]
+                        NoExpr(
+                        ) [NoExpr]
+                      ) [ExprClass]
+                    ) [FactorExpr]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+                NoListOfAdopTerms(
+                ) [NoListOfAdopTerms]
+              ) [ExprPositive]
+              ExprExprIsNullClass(
+                IsNull(
+                ) [IsNull]
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorExpr(
+                          ExprClass(
+                            ExprPositive(
+                              Term(
+                                Factor(
+                                  FactorDesign(
+                                    DesignatorIdentOnly(
+                                     bodovi
+                                    ) [DesignatorIdentOnly]
+                                  ) [FactorDesign]
+                                ) [Factor]
+                                ListMulopFactors(
+                                  NoMulopFactors(
+                                  ) [NoMulopFactors]
+                                  Mul(
+                                  ) [Mul]
+                                  Factor(
+                                    FactorDesign(
+                                      DesignatorIdentOnly(
+                                       nula
+                                      ) [DesignatorIdentOnly]
+                                    ) [FactorDesign]
+                                  ) [Factor]
+                                ) [ListMulopFactors]
+                              ) [Term]
+                              NoListOfAdopTerms(
+                              ) [NoListOfAdopTerms]
+                            ) [ExprPositive]
+                            ExprExprIsNullClass(
+                              IsNull(
+                              ) [IsNull]
+                              ExprClass(
+                                ExprPositive(
+                                  Term(
+                                    Factor(
+                                      FactorDesign(
+                                        DesignatorIdentOnly(
+                                         jedan
+                                        ) [DesignatorIdentOnly]
+                                      ) [FactorDesign]
+                                    ) [Factor]
+                                    NoMulopFactors(
+                                    ) [NoMulopFactors]
+                                  ) [Term]
+                                  NoListOfAdopTerms(
+                                  ) [NoListOfAdopTerms]
+                                ) [ExprPositive]
+                                NoExpr(
+                                ) [NoExpr]
+                              ) [ExprClass]
+                            ) [ExprExprIsNullClass]
+                          ) [ExprClass]
+                        ) [FactorExpr]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [ExprExprIsNullClass]
+            ) [ExprClass]
+          ) [DesignatorArrayExpr]
+        ) [FactorDesign]
+      ) [Factor]
+      ListMulopFactors(
+        NoMulopFactors(
+        ) [NoMulopFactors]
+        Mul(
+        ) [Mul]
+        Factor(
+          FactorNum(
+           3
+          ) [FactorNum]
+        ) [Factor]
+      ) [ListMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,964 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 29
+INFO  05:58:49,964 - DesignatorArrayExpr visited. Array name is: niz na liniji 30
+INFO  05:58:49,965 - DesignatorArrayExpr visited. Array name is: niz na liniji 30
+INFO  05:58:49,965 - Value assignment is processing (designator name: bodovi, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorDesign(
+          DesignatorArrayExpr(
+            DesignatorIdentOnly(
+             niz
+            ) [DesignatorIdentOnly]
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorNum(
+                     2
+                    ) [FactorNum]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+                NoListOfAdopTerms(
+                ) [NoListOfAdopTerms]
+              ) [ExprPositive]
+              NoExpr(
+              ) [NoExpr]
+            ) [ExprClass]
+          ) [DesignatorArrayExpr]
+        ) [FactorDesign]
+      ) [Factor]
+      ListMulopFactors(
+        NoMulopFactors(
+        ) [NoMulopFactors]
+        Div(
+        ) [Div]
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               niz
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorNum(
+                       0
+                      ) [FactorNum]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+      ) [ListMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,965 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 30
+INFO  05:58:49,965 - PrintStatement visited. Print operation is processing... na liniji 31
+INFO  05:58:49,965 - DesignatorArrayExpr visited. Array name is: niz na liniji 32
+INFO  05:58:49,965 - PrintStatement visited. Print operation is processing... na liniji 32
+INFO  05:58:49,965 - Type: char visited na liniji 35
+INFO  05:58:49,966 - Value assignment is processing (designator name: nizch, type: Array; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorNewTypeExpr(
+          Type(
+           char
+          ) [Type]
+          ExprClass(
+            ExprPositive(
+              Term(
+                Factor(
+                  FactorNum(
+                   3
+                  ) [FactorNum]
+                ) [Factor]
+                NoMulopFactors(
+                ) [NoMulopFactors]
+              ) [Term]
+              NoListOfAdopTerms(
+              ) [NoListOfAdopTerms]
+            ) [ExprPositive]
+            NoExpr(
+            ) [NoExpr]
+          ) [ExprClass]
+        ) [FactorNewTypeExpr]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,966 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 35
+INFO  05:58:49,966 - DesignatorArrayExpr visited. Array name is: nizch na liniji 36
+INFO  05:58:49,966 - Value assignment is processing (designator name: nizch, type: Char; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorChar(
+         a
+        ) [FactorChar]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,966 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 36
+INFO  05:58:49,966 - DesignatorArrayExpr visited. Array name is: nizch na liniji 37
+INFO  05:58:49,966 - Value assignment is processing (designator name: nizch, type: Char; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorChar(
+         b
+        ) [FactorChar]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,966 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 37
+INFO  05:58:49,967 - DesignatorArrayExpr visited. Array name is: nizch na liniji 38
+INFO  05:58:49,967 - Value assignment is processing (designator name: nizch, type: Char; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorChar(
+         c
+        ) [FactorChar]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    NoListOfAdopTerms(
+    ) [NoListOfAdopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,967 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 38
+INFO  05:58:49,967 - DesignatorArrayExpr visited. Array name is: nizch na liniji 39
+INFO  05:58:49,967 - PrintStatement visited. Print operation is processing... na liniji 39
+INFO  05:58:49,967 - DesignatorArrayExpr visited. Array name is: nizch na liniji 40
+INFO  05:58:49,967 - PrintStatement visited. Print operation is processing... na liniji 40
+INFO  05:58:49,968 - Value assignment is processing (designator name: bodovi, type: Int; expr : ExprClass(
+  ExprPositive(
+    Term(
+      Factor(
+        FactorDesign(
+          DesignatorIdentOnly(
+           bodovi
+          ) [DesignatorIdentOnly]
+        ) [FactorDesign]
+      ) [Factor]
+      NoMulopFactors(
+      ) [NoMulopFactors]
+    ) [Term]
+    ListAddopTerms(
+      ListAddopTerms(
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+        Plus(
+        ) [Plus]
+        Term(
+          Factor(
+            FactorExpr(
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorDesign(
+                        DesignatorIdentOnly(
+                         pet
+                        ) [DesignatorIdentOnly]
+                      ) [FactorDesign]
+                    ) [Factor]
+                    ListMulopFactors(
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                      Mul(
+                      ) [Mul]
+                      Factor(
+                        FactorDesign(
+                          DesignatorIdentOnly(
+                           jedan
+                          ) [DesignatorIdentOnly]
+                        ) [FactorDesign]
+                      ) [Factor]
+                    ) [ListMulopFactors]
+                  ) [Term]
+                  ListAddopTerms(
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                    Minus(
+                    ) [Minus]
+                    Term(
+                      Factor(
+                        FactorNum(
+                         1
+                        ) [FactorNum]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                  ) [ListAddopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [FactorExpr]
+          ) [Factor]
+          ListMulopFactors(
+            NoMulopFactors(
+            ) [NoMulopFactors]
+            Mul(
+            ) [Mul]
+            Factor(
+              FactorDesign(
+                DesignatorIdentOnly(
+                 bodovi
+                ) [DesignatorIdentOnly]
+              ) [FactorDesign]
+            ) [Factor]
+          ) [ListMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+      Minus(
+      ) [Minus]
+      Term(
+        Factor(
+          FactorExpr(
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                  ListMulopFactors(
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                    Mod(
+                    ) [Mod]
+                    Factor(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                    ) [Factor]
+                  ) [ListMulopFactors]
+                ) [Term]
+                ListAddopTerms(
+                  ListAddopTerms(
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                    Plus(
+                    ) [Plus]
+                    Term(
+                      Factor(
+                        FactorNum(
+                         3
+                        ) [FactorNum]
+                      ) [Factor]
+                      ListMulopFactors(
+                        NoMulopFactors(
+                        ) [NoMulopFactors]
+                        Mul(
+                        ) [Mul]
+                        Factor(
+                          FactorNum(
+                           2
+                          ) [FactorNum]
+                        ) [Factor]
+                      ) [ListMulopFactors]
+                    ) [Term]
+                  ) [ListAddopTerms]
+                  Minus(
+                  ) [Minus]
+                  Term(
+                    Factor(
+                      FactorNum(
+                       3
+                      ) [FactorNum]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                ) [ListAddopTerms]
+              ) [ExprPositive]
+              NoExpr(
+              ) [NoExpr]
+            ) [ExprClass]
+          ) [FactorExpr]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+    ) [ListAddopTerms]
+  ) [ExprPositive]
+  NoExpr(
+  ) [NoExpr]
+) [ExprClass]
+INFO  05:58:49,969 - DesignatorParamsAssignopExpr visited. Value assignment is processing... na liniji 43
+INFO  05:58:49,969 - PrintStatement visited. Print operation is processing... na liniji 44
+INFO  05:58:49,969 - ReadStatement visited. Read operation is processing... na liniji 46
+INFO  05:58:49,969 - PrintStatement visited. Print operation is processing... na liniji 47
+INFO  05:58:49,969 - MethodDecl: main visited. (formParamCnt=0) na liniji 14
+INFO  05:58:49,969 - CLEARED, methodName= , formParamCnt=0 na liniji 14
+INFO  05:58:49,969 - Node Program visited na liniji 3
+INFO  05:58:49,969 - ===================================
+INFO  05:58:49,972 - methodVoid na liniji 14
+INFO  05:58:49,974 - CODE_GEN: DesignatorIdentOnly na liniji 18
+INFO  05:58:49,974 - CODE_GEN: FactorNum na liniji 18
+INFO  05:58:49,974 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   bodovi
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           0
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 18
+INFO  05:58:49,974 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=bodovi, type=Int, adr=0, level=1, locals=0 na liniji 18
+INFO  05:58:49,974 - CODE_GEN: DesignatorIdentOnly na liniji 19
+INFO  05:58:49,974 - CODE_GEN: DesignatorParamsInc na liniji 19
+INFO  05:58:49,974 - CODE_GEN: DesignatorIdentOnly na liniji 20
+INFO  05:58:49,974 - CODE_GEN: DesignatorIdentOnly na liniji 20
+INFO  05:58:49,974 - CODE_GEN: DesignatorIdentOnly na liniji 20
+INFO  05:58:49,974 - CODE_GEN: ListAddopTerms na liniji 12
+INFO  05:58:49,974 - CODE_GEN: ExprClass, parent: FactorExpr(
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      ListAddopTerms(
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+        Plus(
+        ) [Plus]
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               jedan
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [FactorExpr] na liniji 20
+INFO  05:58:49,974 - CODE_GEN: IsNull
+INFO  05:58:49,975 - CODE_GEN: DesignatorIdentOnly na liniji 20
+INFO  05:58:49,975 - CODE_GEN: ExprClass, parent: ExprExprIsNullClass(
+  IsNull(
+  ) [IsNull]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             tri
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [ExprExprIsNullClass] na liniji 20
+INFO  05:58:49,975 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   bodovi
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorExpr(
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorDesign(
+                      DesignatorIdentOnly(
+                       bodovi
+                      ) [DesignatorIdentOnly]
+                    ) [FactorDesign]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+                ListAddopTerms(
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                  Plus(
+                  ) [Plus]
+                  Term(
+                    Factor(
+                      FactorDesign(
+                        DesignatorIdentOnly(
+                         jedan
+                        ) [DesignatorIdentOnly]
+                      ) [FactorDesign]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                ) [ListAddopTerms]
+              ) [ExprPositive]
+              NoExpr(
+              ) [NoExpr]
+            ) [ExprClass]
+          ) [FactorExpr]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    ExprExprIsNullClass(
+      IsNull(
+      ) [IsNull]
+      ExprClass(
+        ExprPositive(
+          Term(
+            Factor(
+              FactorDesign(
+                DesignatorIdentOnly(
+                 tri
+                ) [DesignatorIdentOnly]
+              ) [FactorDesign]
+            ) [Factor]
+            NoMulopFactors(
+            ) [NoMulopFactors]
+          ) [Term]
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+        ) [ExprPositive]
+        NoExpr(
+        ) [NoExpr]
+      ) [ExprClass]
+    ) [ExprExprIsNullClass]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 20
+INFO  05:58:49,975 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=bodovi, type=Int, adr=0, level=1, locals=0 na liniji 20
+INFO  05:58:49,975 - CODE_GEN: DesignatorIdentOnly na liniji 21
+INFO  05:58:49,975 - CODE_GEN: DesignatorIdentOnly na liniji 21
+INFO  05:58:49,975 - CODE_GEN: DesignatorIdentOnly na liniji 21
+INFO  05:58:49,975 - CODE_GEN: ListMulopFactors na liniji 11
+INFO  05:58:49,975 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   bodovi
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Mul(
+          ) [Mul]
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               pet
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 21
+INFO  05:58:49,975 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=bodovi, type=Int, adr=0, level=1, locals=0 na liniji 21
+INFO  05:58:49,975 - CODE_GEN: DesignatorIdentOnly na liniji 22
+INFO  05:58:49,975 - CODE_GEN: DesignatorParamsDec na liniji 22
+INFO  05:58:49,975 - CODE_GEN: DesignatorIdentOnly na liniji 23
+INFO  05:58:49,975 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 23
+INFO  05:58:49,976 - PrintExprStatement na liniji 23
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 26
+INFO  05:58:49,976 - CODE_GEN: FactorNum na liniji 26
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: FactorNewTypeExpr(
+  Type(
+   int
+  ) [Type]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           3
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [FactorNewTypeExpr] na liniji 26
+INFO  05:58:49,976 - CODE_GEN: FactorNewTypeExpr na liniji 26
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNewTypeExpr(
+            Type(
+             int
+            ) [Type]
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+                NoListOfAdopTerms(
+                ) [NoListOfAdopTerms]
+              ) [ExprPositive]
+              NoExpr(
+              ) [NoExpr]
+            ) [ExprClass]
+          ) [FactorNewTypeExpr]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 26
+INFO  05:58:49,976 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=niz, type=Array, adr=0, level=0, locals=0 na liniji 26
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 27
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 27
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             nula
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 27
+INFO  05:58:49,976 - CODE_GEN: DesignatorArrayExpr na liniji 27
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 27
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorArrayExpr(
+    DesignatorIdentOnly(
+     niz
+    ) [DesignatorIdentOnly]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               nula
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+      ) [ExprPositive]
+      NoExpr(
+      ) [NoExpr]
+    ) [ExprClass]
+  ) [DesignatorArrayExpr]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             jedan
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 27
+INFO  05:58:49,976 - CODE_GEN: DesignatorParamsAssignopExpr kind=Elem , name=niz, type=Int, adr=-1, level=-1, locals=0 na liniji 27
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 28
+INFO  05:58:49,976 - CODE_GEN: FactorNum na liniji 28
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           1
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 28
+INFO  05:58:49,976 - CODE_GEN: DesignatorArrayExpr na liniji 28
+INFO  05:58:49,976 - CODE_GEN: FactorNum na liniji 28
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorArrayExpr(
+    DesignatorIdentOnly(
+     niz
+    ) [DesignatorIdentOnly]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorNum(
+             1
+            ) [FactorNum]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+      ) [ExprPositive]
+      NoExpr(
+      ) [NoExpr]
+    ) [ExprClass]
+  ) [DesignatorArrayExpr]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           2
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 28
+INFO  05:58:49,976 - CODE_GEN: DesignatorParamsAssignopExpr kind=Elem , name=niz, type=Int, adr=-1, level=-1, locals=0 na liniji 28
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,976 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,976 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             jedan
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 29
+INFO  05:58:49,976 - CODE_GEN: DesignatorArrayExpr na liniji 29
+INFO  05:58:49,977 - CODE_GEN: IsNull
+INFO  05:58:49,977 - CODE_GEN: FactorNum na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ExprNegative na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ExprClass, parent: ExprExprIsNullClass(
+  IsNull(
+  ) [IsNull]
+  ExprClass(
+    ExprNegative(
+      Term(
+        Factor(
+          FactorNum(
+           1
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprNegative]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [ExprExprIsNullClass] na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               niz
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorDesign(
+                        DesignatorIdentOnly(
+                         jedan
+                        ) [DesignatorIdentOnly]
+                      ) [FactorDesign]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    ExprExprIsNullClass(
+      IsNull(
+      ) [IsNull]
+      ExprClass(
+        ExprNegative(
+          Term(
+            Factor(
+              FactorNum(
+               1
+              ) [FactorNum]
+            ) [Factor]
+            NoMulopFactors(
+            ) [NoMulopFactors]
+          ) [Term]
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+        ) [ExprNegative]
+        NoExpr(
+        ) [NoExpr]
+      ) [ExprClass]
+    ) [ExprExprIsNullClass]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 29
+INFO  05:58:49,977 - CODE_GEN: DesignatorArrayExpr na liniji 29
+INFO  05:58:49,977 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,977 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,977 - CODE_GEN: FactorNum na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           0
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 29
+INFO  05:58:49,977 - CODE_GEN: DesignatorArrayExpr na liniji 29
+INFO  05:58:49,977 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ListAddopTerms na liniji 36
+INFO  05:58:49,977 - CODE_GEN: ExprClass, parent: FactorExpr(
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               niz
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorNum(
+                       0
+                      ) [FactorNum]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      ListAddopTerms(
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+        Minus(
+        ) [Minus]
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               jedan
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [FactorExpr] na liniji 29
+INFO  05:58:49,977 - CODE_GEN: IsNull
+INFO  05:58:49,977 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,977 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ListMulopFactors na liniji 51
+INFO  05:58:49,977 - CODE_GEN: IsNull
+INFO  05:58:49,977 - CODE_GEN: DesignatorIdentOnly na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ExprClass, parent: ExprExprIsNullClass(
+  IsNull(
+  ) [IsNull]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             jedan
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [ExprExprIsNullClass] na liniji 29
+INFO  05:58:49,977 - CODE_GEN: ExprClass, parent: FactorExpr(
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Mul(
+          ) [Mul]
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               nula
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    ExprExprIsNullClass(
+      IsNull(
+      ) [IsNull]
+      ExprClass(
+        ExprPositive(
+          Term(
+            Factor(
+              FactorDesign(
+                DesignatorIdentOnly(
+                 jedan
+                ) [DesignatorIdentOnly]
+              ) [FactorDesign]
+            ) [Factor]
+            NoMulopFactors(
+            ) [NoMulopFactors]
+          ) [Term]
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+        ) [ExprPositive]
+        NoExpr(
+        ) [NoExpr]
+      ) [ExprClass]
+    ) [ExprExprIsNullClass]
+  ) [ExprClass]
+) [FactorExpr] na liniji 29
+INFO  05:58:49,978 - CODE_GEN: ExprClass, parent: ExprExprIsNullClass(
+  IsNull(
+  ) [IsNull]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorExpr(
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorDesign(
+                      DesignatorIdentOnly(
+                       bodovi
+                      ) [DesignatorIdentOnly]
+                    ) [FactorDesign]
+                  ) [Factor]
+                  ListMulopFactors(
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                    Mul(
+                    ) [Mul]
+                    Factor(
+                      FactorDesign(
+                        DesignatorIdentOnly(
+                         nula
+                        ) [DesignatorIdentOnly]
+                      ) [FactorDesign]
+                    ) [Factor]
+                  ) [ListMulopFactors]
+                ) [Term]
+                NoListOfAdopTerms(
+                ) [NoListOfAdopTerms]
+              ) [ExprPositive]
+              ExprExprIsNullClass(
+                IsNull(
+                ) [IsNull]
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorDesign(
+                          DesignatorIdentOnly(
+                           jedan
+                          ) [DesignatorIdentOnly]
+                        ) [FactorDesign]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [ExprExprIsNullClass]
+            ) [ExprClass]
+          ) [FactorExpr]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [ExprExprIsNullClass] na liniji 29
+INFO  05:58:49,981 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorExpr(
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorDesign(
+                      DesignatorArrayExpr(
+                        DesignatorIdentOnly(
+                         niz
+                        ) [DesignatorIdentOnly]
+                        ExprClass(
+                          ExprPositive(
+                            Term(
+                              Factor(
+                                FactorNum(
+                                 0
+                                ) [FactorNum]
+                              ) [Factor]
+                              NoMulopFactors(
+                              ) [NoMulopFactors]
+                            ) [Term]
+                            NoListOfAdopTerms(
+                            ) [NoListOfAdopTerms]
+                          ) [ExprPositive]
+                          NoExpr(
+                          ) [NoExpr]
+                        ) [ExprClass]
+                      ) [DesignatorArrayExpr]
+                    ) [FactorDesign]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+                ListAddopTerms(
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                  Minus(
+                  ) [Minus]
+                  Term(
+                    Factor(
+                      FactorDesign(
+                        DesignatorIdentOnly(
+                         jedan
+                        ) [DesignatorIdentOnly]
+                      ) [FactorDesign]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                ) [ListAddopTerms]
+              ) [ExprPositive]
+              NoExpr(
+              ) [NoExpr]
+            ) [ExprClass]
+          ) [FactorExpr]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    ExprExprIsNullClass(
+      IsNull(
+      ) [IsNull]
+      ExprClass(
+        ExprPositive(
+          Term(
+            Factor(
+              FactorExpr(
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorDesign(
+                          DesignatorIdentOnly(
+                           bodovi
+                          ) [DesignatorIdentOnly]
+                        ) [FactorDesign]
+                      ) [Factor]
+                      ListMulopFactors(
+                        NoMulopFactors(
+                        ) [NoMulopFactors]
+                        Mul(
+                        ) [Mul]
+                        Factor(
+                          FactorDesign(
+                            DesignatorIdentOnly(
+                             nula
+                            ) [DesignatorIdentOnly]
+                          ) [FactorDesign]
+                        ) [Factor]
+                      ) [ListMulopFactors]
+                    ) [Term]
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                  ) [ExprPositive]
+                  ExprExprIsNullClass(
+                    IsNull(
+                    ) [IsNull]
+                    ExprClass(
+                      ExprPositive(
+                        Term(
+                          Factor(
+                            FactorDesign(
+                              DesignatorIdentOnly(
+                               jedan
+                              ) [DesignatorIdentOnly]
+                            ) [FactorDesign]
+                          ) [Factor]
+                          NoMulopFactors(
+                          ) [NoMulopFactors]
+                        ) [Term]
+                        NoListOfAdopTerms(
+                        ) [NoListOfAdopTerms]
+                      ) [ExprPositive]
+                      NoExpr(
+                      ) [NoExpr]
+                    ) [ExprClass]
+                  ) [ExprExprIsNullClass]
+                ) [ExprClass]
+              ) [FactorExpr]
+            ) [Factor]
+            NoMulopFactors(
+            ) [NoMulopFactors]
+          ) [Term]
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+        ) [ExprPositive]
+        NoExpr(
+        ) [NoExpr]
+      ) [ExprClass]
+    ) [ExprExprIsNullClass]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 29
+INFO  05:58:49,981 - CODE_GEN: DesignatorArrayExpr na liniji 29
+INFO  05:58:49,981 - CODE_GEN: FactorNum na liniji 29
+INFO  05:58:49,981 - CODE_GEN: ListMulopFactors na liniji 75
+INFO  05:58:49,982 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorArrayExpr(
+    DesignatorIdentOnly(
+     niz
+    ) [DesignatorIdentOnly]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorArrayExpr(
+                DesignatorIdentOnly(
+                 niz
+                ) [DesignatorIdentOnly]
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorDesign(
+                          DesignatorIdentOnly(
+                           jedan
+                          ) [DesignatorIdentOnly]
+                        ) [FactorDesign]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [DesignatorArrayExpr]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+      ) [ExprPositive]
+      ExprExprIsNullClass(
+        IsNull(
+        ) [IsNull]
+        ExprClass(
+          ExprNegative(
+            Term(
+              Factor(
+                FactorNum(
+                 1
+                ) [FactorNum]
+              ) [Factor]
+              NoMulopFactors(
+              ) [NoMulopFactors]
+            ) [Term]
+            NoListOfAdopTerms(
+            ) [NoListOfAdopTerms]
+          ) [ExprNegative]
+          NoExpr(
+          ) [NoExpr]
+        ) [ExprClass]
+      ) [ExprExprIsNullClass]
+    ) [ExprClass]
+  ) [DesignatorArrayExpr]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               niz
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorExpr(
+                        ExprClass(
+                          ExprPositive(
+                            Term(
+                              Factor(
+                                FactorDesign(
+                                  DesignatorArrayExpr(
+                                    DesignatorIdentOnly(
+                                     niz
+                                    ) [DesignatorIdentOnly]
+                                    ExprClass(
+                                      ExprPositive(
+                                        Term(
+                                          Factor(
+                                            FactorNum(
+                                             0
+                                            ) [FactorNum]
+                                          ) [Factor]
+                                          NoMulopFactors(
+                                          ) [NoMulopFactors]
+                                        ) [Term]
+                                        NoListOfAdopTerms(
+                                        ) [NoListOfAdopTerms]
+                                      ) [ExprPositive]
+                                      NoExpr(
+                                      ) [NoExpr]
+                                    ) [ExprClass]
+                                  ) [DesignatorArrayExpr]
+                                ) [FactorDesign]
+                              ) [Factor]
+                              NoMulopFactors(
+                              ) [NoMulopFactors]
+                            ) [Term]
+                            ListAddopTerms(
+                              NoListOfAdopTerms(
+                              ) [NoListOfAdopTerms]
+                              Minus(
+                              ) [Minus]
+                              Term(
+                                Factor(
+                                  FactorDesign(
+                                    DesignatorIdentOnly(
+                                     jedan
+                                    ) [DesignatorIdentOnly]
+                                  ) [FactorDesign]
+                                ) [Factor]
+                                NoMulopFactors(
+                                ) [NoMulopFactors]
+                              ) [Term]
+                            ) [ListAddopTerms]
+                          ) [ExprPositive]
+                          NoExpr(
+                          ) [NoExpr]
+                        ) [ExprClass]
+                      ) [FactorExpr]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                ExprExprIsNullClass(
+                  IsNull(
+                  ) [IsNull]
+                  ExprClass(
+                    ExprPositive(
+                      Term(
+                        Factor(
+                          FactorExpr(
+                            ExprClass(
+                              ExprPositive(
+                                Term(
+                                  Factor(
+                                    FactorDesign(
+                                      DesignatorIdentOnly(
+                                       bodovi
+                                      ) [DesignatorIdentOnly]
+                                    ) [FactorDesign]
+                                  ) [Factor]
+                                  ListMulopFactors(
+                                    NoMulopFactors(
+                                    ) [NoMulopFactors]
+                                    Mul(
+                                    ) [Mul]
+                                    Factor(
+                                      FactorDesign(
+                                        DesignatorIdentOnly(
+                                         nula
+                                        ) [DesignatorIdentOnly]
+                                      ) [FactorDesign]
+                                    ) [Factor]
+                                  ) [ListMulopFactors]
+                                ) [Term]
+                                NoListOfAdopTerms(
+                                ) [NoListOfAdopTerms]
+                              ) [ExprPositive]
+                              ExprExprIsNullClass(
+                                IsNull(
+                                ) [IsNull]
+                                ExprClass(
+                                  ExprPositive(
+                                    Term(
+                                      Factor(
+                                        FactorDesign(
+                                          DesignatorIdentOnly(
+                                           jedan
+                                          ) [DesignatorIdentOnly]
+                                        ) [FactorDesign]
+                                      ) [Factor]
+                                      NoMulopFactors(
+                                      ) [NoMulopFactors]
+                                    ) [Term]
+                                    NoListOfAdopTerms(
+                                    ) [NoListOfAdopTerms]
+                                  ) [ExprPositive]
+                                  NoExpr(
+                                  ) [NoExpr]
+                                ) [ExprClass]
+                              ) [ExprExprIsNullClass]
+                            ) [ExprClass]
+                          ) [FactorExpr]
+                        ) [Factor]
+                        NoMulopFactors(
+                        ) [NoMulopFactors]
+                      ) [Term]
+                      NoListOfAdopTerms(
+                      ) [NoListOfAdopTerms]
+                    ) [ExprPositive]
+                    NoExpr(
+                    ) [NoExpr]
+                  ) [ExprClass]
+                ) [ExprExprIsNullClass]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Mul(
+          ) [Mul]
+          Factor(
+            FactorNum(
+             3
+            ) [FactorNum]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 29
+INFO  05:58:49,982 - CODE_GEN: DesignatorParamsAssignopExpr kind=Elem , name=niz, type=Int, adr=-1, level=-1, locals=0 na liniji 29
+INFO  05:58:49,982 - CODE_GEN: DesignatorIdentOnly na liniji 30
+INFO  05:58:49,982 - CODE_GEN: DesignatorIdentOnly na liniji 30
+INFO  05:58:49,982 - CODE_GEN: FactorNum na liniji 30
+INFO  05:58:49,982 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           2
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 30
+INFO  05:58:49,982 - CODE_GEN: DesignatorArrayExpr na liniji 30
+INFO  05:58:49,982 - CODE_GEN: DesignatorIdentOnly na liniji 30
+INFO  05:58:49,982 - CODE_GEN: FactorNum na liniji 30
+INFO  05:58:49,982 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           0
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 30
+INFO  05:58:49,983 - CODE_GEN: DesignatorArrayExpr na liniji 30
+INFO  05:58:49,983 - CODE_GEN: ListMulopFactors na liniji 16
+INFO  05:58:49,983 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   bodovi
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               niz
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Div(
+          ) [Div]
+          Factor(
+            FactorDesign(
+              DesignatorArrayExpr(
+                DesignatorIdentOnly(
+                 niz
+                ) [DesignatorIdentOnly]
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorNum(
+                         0
+                        ) [FactorNum]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                    NoListOfAdopTerms(
+                    ) [NoListOfAdopTerms]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [DesignatorArrayExpr]
+            ) [FactorDesign]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 30
+INFO  05:58:49,994 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=bodovi, type=Int, adr=0, level=1, locals=0 na liniji 30
+INFO  05:58:49,994 - CODE_GEN: DesignatorIdentOnly na liniji 31
+INFO  05:58:49,994 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 31
+INFO  05:58:49,994 - PrintExprStatement na liniji 31
+INFO  05:58:49,994 - CODE_GEN: DesignatorIdentOnly na liniji 32
+INFO  05:58:49,994 - CODE_GEN: FactorNum na liniji 32
+INFO  05:58:49,994 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   niz
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           2
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 32
+INFO  05:58:49,994 - CODE_GEN: DesignatorArrayExpr na liniji 32
+INFO  05:58:49,994 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               niz
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 32
+INFO  05:58:49,994 - PrintExprStatement na liniji 32
+INFO  05:58:49,995 - CODE_GEN: DesignatorIdentOnly na liniji 35
+INFO  05:58:49,995 - CODE_GEN: FactorNum na liniji 35
+INFO  05:58:49,995 - CODE_GEN: ExprClass, parent: FactorNewTypeExpr(
+  Type(
+   char
+  ) [Type]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           3
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [FactorNewTypeExpr] na liniji 35
+INFO  05:58:49,995 - CODE_GEN: FactorNewTypeExpr na liniji 35
+INFO  05:58:49,995 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   nizch
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNewTypeExpr(
+            Type(
+             char
+            ) [Type]
+            ExprClass(
+              ExprPositive(
+                Term(
+                  Factor(
+                    FactorNum(
+                     3
+                    ) [FactorNum]
+                  ) [Factor]
+                  NoMulopFactors(
+                  ) [NoMulopFactors]
+                ) [Term]
+                NoListOfAdopTerms(
+                ) [NoListOfAdopTerms]
+              ) [ExprPositive]
+              NoExpr(
+              ) [NoExpr]
+            ) [ExprClass]
+          ) [FactorNewTypeExpr]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 35
+INFO  05:58:49,995 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=nizch, type=Array, adr=1, level=0, locals=0 na liniji 35
+INFO  05:58:49,995 - CODE_GEN: DesignatorIdentOnly na liniji 36
+INFO  05:58:49,995 - CODE_GEN: FactorNum na liniji 36
+INFO  05:58:49,995 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   nizch
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           0
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 36
+INFO  05:58:49,995 - CODE_GEN: DesignatorArrayExpr na liniji 36
+INFO  05:58:49,995 - CODE_GEN: FactorChar na liniji 36
+INFO  05:58:49,995 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorArrayExpr(
+    DesignatorIdentOnly(
+     nizch
+    ) [DesignatorIdentOnly]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorNum(
+             0
+            ) [FactorNum]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+      ) [ExprPositive]
+      NoExpr(
+      ) [NoExpr]
+    ) [ExprClass]
+  ) [DesignatorArrayExpr]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorChar(
+           a
+          ) [FactorChar]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 36
+INFO  05:58:49,995 - CODE_GEN: DesignatorParamsAssignopExpr kind=Elem , name=nizch, type=Char, adr=-1, level=-1, locals=0 na liniji 36
+INFO  05:58:49,995 - CODE_GEN: DesignatorIdentOnly na liniji 37
+INFO  05:58:49,995 - CODE_GEN: DesignatorIdentOnly na liniji 37
+INFO  05:58:49,995 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   nizch
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             jedan
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 37
+INFO  05:58:49,995 - CODE_GEN: DesignatorArrayExpr na liniji 37
+INFO  05:58:49,995 - CODE_GEN: FactorChar na liniji 37
+INFO  05:58:49,995 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorArrayExpr(
+    DesignatorIdentOnly(
+     nizch
+    ) [DesignatorIdentOnly]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               jedan
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+      ) [ExprPositive]
+      NoExpr(
+      ) [NoExpr]
+    ) [ExprClass]
+  ) [DesignatorArrayExpr]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorChar(
+           b
+          ) [FactorChar]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 37
+INFO  05:58:49,995 - CODE_GEN: DesignatorParamsAssignopExpr kind=Elem , name=nizch, type=Char, adr=-1, level=-1, locals=0 na liniji 37
+INFO  05:58:49,995 - CODE_GEN: DesignatorIdentOnly na liniji 38
+INFO  05:58:49,996 - CODE_GEN: DesignatorIdentOnly na liniji 38
+INFO  05:58:49,996 - CODE_GEN: FactorNum na liniji 38
+INFO  05:58:49,996 - CODE_GEN: ListAddopTerms na liniji 8
+INFO  05:58:49,996 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   nizch
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             pet
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      ListAddopTerms(
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+        Minus(
+        ) [Minus]
+        Term(
+          Factor(
+            FactorNum(
+             3
+            ) [FactorNum]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 38
+INFO  05:58:49,996 - CODE_GEN: DesignatorArrayExpr na liniji 38
+INFO  05:58:49,996 - CODE_GEN: FactorChar na liniji 38
+INFO  05:58:49,996 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorArrayExpr(
+    DesignatorIdentOnly(
+     nizch
+    ) [DesignatorIdentOnly]
+    ExprClass(
+      ExprPositive(
+        Term(
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               pet
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+        ListAddopTerms(
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+          Minus(
+          ) [Minus]
+          Term(
+            Factor(
+              FactorNum(
+               3
+              ) [FactorNum]
+            ) [Factor]
+            NoMulopFactors(
+            ) [NoMulopFactors]
+          ) [Term]
+        ) [ListAddopTerms]
+      ) [ExprPositive]
+      NoExpr(
+      ) [NoExpr]
+    ) [ExprClass]
+  ) [DesignatorArrayExpr]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorChar(
+           c
+          ) [FactorChar]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 38
+INFO  05:58:49,996 - CODE_GEN: DesignatorParamsAssignopExpr kind=Elem , name=nizch, type=Char, adr=-1, level=-1, locals=0 na liniji 38
+INFO  05:58:49,996 - CODE_GEN: DesignatorIdentOnly na liniji 39
+INFO  05:58:49,996 - CODE_GEN: FactorNum na liniji 39
+INFO  05:58:49,996 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   nizch
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           1
+          ) [FactorNum]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 39
+INFO  05:58:49,996 - CODE_GEN: DesignatorArrayExpr na liniji 39
+INFO  05:58:49,996 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               nizch
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorNum(
+                       1
+                      ) [FactorNum]
+                    ) [Factor]
+                    NoMulopFactors(
+                    ) [NoMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 39
+INFO  05:58:49,996 - PrintExprStatement na liniji 39
+INFO  05:58:49,996 - CODE_GEN: DesignatorIdentOnly na liniji 40
+INFO  05:58:49,996 - CODE_GEN: DesignatorIdentOnly na liniji 40
+INFO  05:58:49,996 - CODE_GEN: FactorNum na liniji 40
+INFO  05:58:49,996 - CODE_GEN: ListMulopFactors na liniji 14
+INFO  05:58:49,996 - CODE_GEN: ExprClass, parent: DesignatorArrayExpr(
+  DesignatorIdentOnly(
+   nizch
+  ) [DesignatorIdentOnly]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             jedan
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Mul(
+          ) [Mul]
+          Factor(
+            FactorNum(
+             2
+            ) [FactorNum]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorArrayExpr] na liniji 40
+INFO  05:58:49,996 - CODE_GEN: DesignatorArrayExpr na liniji 40
+INFO  05:58:49,996 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorArrayExpr(
+              DesignatorIdentOnly(
+               nizch
+              ) [DesignatorIdentOnly]
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorDesign(
+                        DesignatorIdentOnly(
+                         jedan
+                        ) [DesignatorIdentOnly]
+                      ) [FactorDesign]
+                    ) [Factor]
+                    ListMulopFactors(
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                      Mul(
+                      ) [Mul]
+                      Factor(
+                        FactorNum(
+                         2
+                        ) [FactorNum]
+                      ) [Factor]
+                    ) [ListMulopFactors]
+                  ) [Term]
+                  NoListOfAdopTerms(
+                  ) [NoListOfAdopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [DesignatorArrayExpr]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 40
+INFO  05:58:49,997 - PrintExprStatement na liniji 40
+INFO  05:58:49,997 - CODE_GEN: DesignatorIdentOnly na liniji 43
+INFO  05:58:49,997 - CODE_GEN: DesignatorIdentOnly na liniji 43
+INFO  05:58:49,997 - CODE_GEN: DesignatorIdentOnly na liniji 43
+INFO  05:58:49,997 - CODE_GEN: DesignatorIdentOnly na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListMulopFactors na liniji 21
+INFO  05:58:49,997 - CODE_GEN: FactorNum na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListAddopTerms na liniji 27
+INFO  05:58:49,997 - CODE_GEN: ExprClass, parent: FactorExpr(
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             pet
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Mul(
+          ) [Mul]
+          Factor(
+            FactorDesign(
+              DesignatorIdentOnly(
+               jedan
+              ) [DesignatorIdentOnly]
+            ) [FactorDesign]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      ListAddopTerms(
+        NoListOfAdopTerms(
+        ) [NoListOfAdopTerms]
+        Minus(
+        ) [Minus]
+        Term(
+          Factor(
+            FactorNum(
+             1
+            ) [FactorNum]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [FactorExpr] na liniji 43
+INFO  05:58:49,997 - CODE_GEN: DesignatorIdentOnly na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListMulopFactors na liniji 36
+INFO  05:58:49,997 - CODE_GEN: ListAddopTerms na liniji 11
+INFO  05:58:49,997 - CODE_GEN: FactorNum na liniji 43
+INFO  05:58:49,997 - CODE_GEN: FactorNum na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListMulopFactors na liniji 50
+INFO  05:58:49,997 - CODE_GEN: FactorNum na liniji 43
+INFO  05:58:49,997 - CODE_GEN: FactorNum na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListMulopFactors na liniji 58
+INFO  05:58:49,997 - CODE_GEN: ListAddopTerms na liniji 54
+INFO  05:58:49,997 - CODE_GEN: FactorNum na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListAddopTerms na liniji 54
+INFO  05:58:49,997 - CODE_GEN: ExprClass, parent: FactorExpr(
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorNum(
+           3
+          ) [FactorNum]
+        ) [Factor]
+        ListMulopFactors(
+          NoMulopFactors(
+          ) [NoMulopFactors]
+          Mod(
+          ) [Mod]
+          Factor(
+            FactorNum(
+             2
+            ) [FactorNum]
+          ) [Factor]
+        ) [ListMulopFactors]
+      ) [Term]
+      ListAddopTerms(
+        ListAddopTerms(
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+          Plus(
+          ) [Plus]
+          Term(
+            Factor(
+              FactorNum(
+               3
+              ) [FactorNum]
+            ) [Factor]
+            ListMulopFactors(
+              NoMulopFactors(
+              ) [NoMulopFactors]
+              Mul(
+              ) [Mul]
+              Factor(
+                FactorNum(
+                 2
+                ) [FactorNum]
+              ) [Factor]
+            ) [ListMulopFactors]
+          ) [Term]
+        ) [ListAddopTerms]
+        Minus(
+        ) [Minus]
+        Term(
+          Factor(
+            FactorNum(
+             3
+            ) [FactorNum]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [FactorExpr] na liniji 43
+INFO  05:58:49,997 - CODE_GEN: ListAddopTerms na liniji 11
+INFO  05:58:49,997 - CODE_GEN: ExprClass, parent: DesignatorParamsAssignopExpr(
+  DesignatorIdentOnly(
+   bodovi
+  ) [DesignatorIdentOnly]
+  AssignopDerived1(
+  ) [AssignopDerived1]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      ListAddopTerms(
+        ListAddopTerms(
+          NoListOfAdopTerms(
+          ) [NoListOfAdopTerms]
+          Plus(
+          ) [Plus]
+          Term(
+            Factor(
+              FactorExpr(
+                ExprClass(
+                  ExprPositive(
+                    Term(
+                      Factor(
+                        FactorDesign(
+                          DesignatorIdentOnly(
+                           pet
+                          ) [DesignatorIdentOnly]
+                        ) [FactorDesign]
+                      ) [Factor]
+                      ListMulopFactors(
+                        NoMulopFactors(
+                        ) [NoMulopFactors]
+                        Mul(
+                        ) [Mul]
+                        Factor(
+                          FactorDesign(
+                            DesignatorIdentOnly(
+                             jedan
+                            ) [DesignatorIdentOnly]
+                          ) [FactorDesign]
+                        ) [Factor]
+                      ) [ListMulopFactors]
+                    ) [Term]
+                    ListAddopTerms(
+                      NoListOfAdopTerms(
+                      ) [NoListOfAdopTerms]
+                      Minus(
+                      ) [Minus]
+                      Term(
+                        Factor(
+                          FactorNum(
+                           1
+                          ) [FactorNum]
+                        ) [Factor]
+                        NoMulopFactors(
+                        ) [NoMulopFactors]
+                      ) [Term]
+                    ) [ListAddopTerms]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [FactorExpr]
+            ) [Factor]
+            ListMulopFactors(
+              NoMulopFactors(
+              ) [NoMulopFactors]
+              Mul(
+              ) [Mul]
+              Factor(
+                FactorDesign(
+                  DesignatorIdentOnly(
+                   bodovi
+                  ) [DesignatorIdentOnly]
+                ) [FactorDesign]
+              ) [Factor]
+            ) [ListMulopFactors]
+          ) [Term]
+        ) [ListAddopTerms]
+        Minus(
+        ) [Minus]
+        Term(
+          Factor(
+            FactorExpr(
+              ExprClass(
+                ExprPositive(
+                  Term(
+                    Factor(
+                      FactorNum(
+                       3
+                      ) [FactorNum]
+                    ) [Factor]
+                    ListMulopFactors(
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                      Mod(
+                      ) [Mod]
+                      Factor(
+                        FactorNum(
+                         2
+                        ) [FactorNum]
+                      ) [Factor]
+                    ) [ListMulopFactors]
+                  ) [Term]
+                  ListAddopTerms(
+                    ListAddopTerms(
+                      NoListOfAdopTerms(
+                      ) [NoListOfAdopTerms]
+                      Plus(
+                      ) [Plus]
+                      Term(
+                        Factor(
+                          FactorNum(
+                           3
+                          ) [FactorNum]
+                        ) [Factor]
+                        ListMulopFactors(
+                          NoMulopFactors(
+                          ) [NoMulopFactors]
+                          Mul(
+                          ) [Mul]
+                          Factor(
+                            FactorNum(
+                             2
+                            ) [FactorNum]
+                          ) [Factor]
+                        ) [ListMulopFactors]
+                      ) [Term]
+                    ) [ListAddopTerms]
+                    Minus(
+                    ) [Minus]
+                    Term(
+                      Factor(
+                        FactorNum(
+                         3
+                        ) [FactorNum]
+                      ) [Factor]
+                      NoMulopFactors(
+                      ) [NoMulopFactors]
+                    ) [Term]
+                  ) [ListAddopTerms]
+                ) [ExprPositive]
+                NoExpr(
+                ) [NoExpr]
+              ) [ExprClass]
+            ) [FactorExpr]
+          ) [Factor]
+          NoMulopFactors(
+          ) [NoMulopFactors]
+        ) [Term]
+      ) [ListAddopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [DesignatorParamsAssignopExpr] na liniji 43
+INFO  05:58:49,997 - CODE_GEN: DesignatorParamsAssignopExpr kind=Var , name=bodovi, type=Int, adr=0, level=1, locals=0 na liniji 43
+INFO  05:58:49,998 - CODE_GEN: DesignatorIdentOnly na liniji 44
+INFO  05:58:49,998 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 44
+INFO  05:58:49,998 - PrintExprStatement na liniji 44
+INFO  05:58:49,998 - CODE_GEN: DesignatorIdentOnly na liniji 46
+INFO  05:58:49,998 - ReadStatement na liniji 46
+INFO  05:58:49,998 - CODE_GEN: DesignatorIdentOnly na liniji 47
+INFO  05:58:49,998 - CODE_GEN: ExprClass, parent: PrintExprStatement(
+  PrintPart(
+  ) [PrintPart]
+  ExprClass(
+    ExprPositive(
+      Term(
+        Factor(
+          FactorDesign(
+            DesignatorIdentOnly(
+             bodovi
+            ) [DesignatorIdentOnly]
+          ) [FactorDesign]
+        ) [Factor]
+        NoMulopFactors(
+        ) [NoMulopFactors]
+      ) [Term]
+      NoListOfAdopTerms(
+      ) [NoListOfAdopTerms]
+    ) [ExprPositive]
+    NoExpr(
+    ) [NoExpr]
+  ) [ExprClass]
+) [PrintExprStatement] na liniji 47
+INFO  05:58:49,998 - PrintExprStatement na liniji 47
+INFO  05:58:49,998 - methodDeclr na liniji 14
+INFO  05:58:49,999 - Parsiranje uspesno zavrseno!

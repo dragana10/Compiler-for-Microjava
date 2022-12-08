@@ -1,6 +1,6 @@
 // generated with ast extension for cup
 // version 0.8
-// 7/1/2022 3:1:25
+// 14/8/2022 6:31:2
 
 
 package rs.ac.bg.etf.pp1.ast;
@@ -9,30 +9,41 @@ public class Program implements SyntaxNode {
 
     private SyntaxNode parent;
     private int line;
-    private DeclarationList DeclarationList;
-    private MethodDeclList MethodDeclList;
+    private ProgramName ProgramName;
+    private ListOfDeclForProg ListOfDeclForProg;
+    private ListOfMethodDecls ListOfMethodDecls;
 
-    public Program (DeclarationList DeclarationList, MethodDeclList MethodDeclList) {
-        this.DeclarationList=DeclarationList;
-        if(DeclarationList!=null) DeclarationList.setParent(this);
-        this.MethodDeclList=MethodDeclList;
-        if(MethodDeclList!=null) MethodDeclList.setParent(this);
+    public Program (ProgramName ProgramName, ListOfDeclForProg ListOfDeclForProg, ListOfMethodDecls ListOfMethodDecls) {
+        this.ProgramName=ProgramName;
+        if(ProgramName!=null) ProgramName.setParent(this);
+        this.ListOfDeclForProg=ListOfDeclForProg;
+        if(ListOfDeclForProg!=null) ListOfDeclForProg.setParent(this);
+        this.ListOfMethodDecls=ListOfMethodDecls;
+        if(ListOfMethodDecls!=null) ListOfMethodDecls.setParent(this);
     }
 
-    public DeclarationList getDeclarationList() {
-        return DeclarationList;
+    public ProgramName getProgramName() {
+        return ProgramName;
     }
 
-    public void setDeclarationList(DeclarationList DeclarationList) {
-        this.DeclarationList=DeclarationList;
+    public void setProgramName(ProgramName ProgramName) {
+        this.ProgramName=ProgramName;
     }
 
-    public MethodDeclList getMethodDeclList() {
-        return MethodDeclList;
+    public ListOfDeclForProg getListOfDeclForProg() {
+        return ListOfDeclForProg;
     }
 
-    public void setMethodDeclList(MethodDeclList MethodDeclList) {
-        this.MethodDeclList=MethodDeclList;
+    public void setListOfDeclForProg(ListOfDeclForProg ListOfDeclForProg) {
+        this.ListOfDeclForProg=ListOfDeclForProg;
+    }
+
+    public ListOfMethodDecls getListOfMethodDecls() {
+        return ListOfMethodDecls;
+    }
+
+    public void setListOfMethodDecls(ListOfMethodDecls ListOfMethodDecls) {
+        this.ListOfMethodDecls=ListOfMethodDecls;
     }
 
     public SyntaxNode getParent() {
@@ -56,19 +67,22 @@ public class Program implements SyntaxNode {
     }
 
     public void childrenAccept(Visitor visitor) {
-        if(DeclarationList!=null) DeclarationList.accept(visitor);
-        if(MethodDeclList!=null) MethodDeclList.accept(visitor);
+        if(ProgramName!=null) ProgramName.accept(visitor);
+        if(ListOfDeclForProg!=null) ListOfDeclForProg.accept(visitor);
+        if(ListOfMethodDecls!=null) ListOfMethodDecls.accept(visitor);
     }
 
     public void traverseTopDown(Visitor visitor) {
         accept(visitor);
-        if(DeclarationList!=null) DeclarationList.traverseTopDown(visitor);
-        if(MethodDeclList!=null) MethodDeclList.traverseTopDown(visitor);
+        if(ProgramName!=null) ProgramName.traverseTopDown(visitor);
+        if(ListOfDeclForProg!=null) ListOfDeclForProg.traverseTopDown(visitor);
+        if(ListOfMethodDecls!=null) ListOfMethodDecls.traverseTopDown(visitor);
     }
 
     public void traverseBottomUp(Visitor visitor) {
-        if(DeclarationList!=null) DeclarationList.traverseBottomUp(visitor);
-        if(MethodDeclList!=null) MethodDeclList.traverseBottomUp(visitor);
+        if(ProgramName!=null) ProgramName.traverseBottomUp(visitor);
+        if(ListOfDeclForProg!=null) ListOfDeclForProg.traverseBottomUp(visitor);
+        if(ListOfMethodDecls!=null) ListOfMethodDecls.traverseBottomUp(visitor);
         accept(visitor);
     }
 
@@ -77,14 +91,20 @@ public class Program implements SyntaxNode {
         buffer.append(tab);
         buffer.append("Program(\n");
 
-        if(DeclarationList!=null)
-            buffer.append(DeclarationList.toString("  "+tab));
+        if(ProgramName!=null)
+            buffer.append(ProgramName.toString("  "+tab));
         else
             buffer.append(tab+"  null");
         buffer.append("\n");
 
-        if(MethodDeclList!=null)
-            buffer.append(MethodDeclList.toString("  "+tab));
+        if(ListOfDeclForProg!=null)
+            buffer.append(ListOfDeclForProg.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(ListOfMethodDecls!=null)
+            buffer.append(ListOfMethodDecls.toString("  "+tab));
         else
             buffer.append(tab+"  null");
         buffer.append("\n");

@@ -1,47 +1,58 @@
 // generated with ast extension for cup
 // version 0.8
-// 7/1/2022 3:1:25
+// 14/8/2022 6:31:2
 
 
 package rs.ac.bg.etf.pp1.ast;
 
-public class UnmatchedIfElse extends Unmatched {
+public class UnmatchedIfElse extends UnmatchedStatement {
 
-    private Condition Condition;
-    private Matched Matched;
-    private Unmatched Unmatched;
+    private IfPart IfPart;
+    private MatchedStatement MatchedStatement;
+    private ElsePart ElsePart;
+    private UnmatchedStatement UnmatchedStatement;
 
-    public UnmatchedIfElse (Condition Condition, Matched Matched, Unmatched Unmatched) {
-        this.Condition=Condition;
-        if(Condition!=null) Condition.setParent(this);
-        this.Matched=Matched;
-        if(Matched!=null) Matched.setParent(this);
-        this.Unmatched=Unmatched;
-        if(Unmatched!=null) Unmatched.setParent(this);
+    public UnmatchedIfElse (IfPart IfPart, MatchedStatement MatchedStatement, ElsePart ElsePart, UnmatchedStatement UnmatchedStatement) {
+        this.IfPart=IfPart;
+        if(IfPart!=null) IfPart.setParent(this);
+        this.MatchedStatement=MatchedStatement;
+        if(MatchedStatement!=null) MatchedStatement.setParent(this);
+        this.ElsePart=ElsePart;
+        if(ElsePart!=null) ElsePart.setParent(this);
+        this.UnmatchedStatement=UnmatchedStatement;
+        if(UnmatchedStatement!=null) UnmatchedStatement.setParent(this);
     }
 
-    public Condition getCondition() {
-        return Condition;
+    public IfPart getIfPart() {
+        return IfPart;
     }
 
-    public void setCondition(Condition Condition) {
-        this.Condition=Condition;
+    public void setIfPart(IfPart IfPart) {
+        this.IfPart=IfPart;
     }
 
-    public Matched getMatched() {
-        return Matched;
+    public MatchedStatement getMatchedStatement() {
+        return MatchedStatement;
     }
 
-    public void setMatched(Matched Matched) {
-        this.Matched=Matched;
+    public void setMatchedStatement(MatchedStatement MatchedStatement) {
+        this.MatchedStatement=MatchedStatement;
     }
 
-    public Unmatched getUnmatched() {
-        return Unmatched;
+    public ElsePart getElsePart() {
+        return ElsePart;
     }
 
-    public void setUnmatched(Unmatched Unmatched) {
-        this.Unmatched=Unmatched;
+    public void setElsePart(ElsePart ElsePart) {
+        this.ElsePart=ElsePart;
+    }
+
+    public UnmatchedStatement getUnmatchedStatement() {
+        return UnmatchedStatement;
+    }
+
+    public void setUnmatchedStatement(UnmatchedStatement UnmatchedStatement) {
+        this.UnmatchedStatement=UnmatchedStatement;
     }
 
     public void accept(Visitor visitor) {
@@ -49,22 +60,25 @@ public class UnmatchedIfElse extends Unmatched {
     }
 
     public void childrenAccept(Visitor visitor) {
-        if(Condition!=null) Condition.accept(visitor);
-        if(Matched!=null) Matched.accept(visitor);
-        if(Unmatched!=null) Unmatched.accept(visitor);
+        if(IfPart!=null) IfPart.accept(visitor);
+        if(MatchedStatement!=null) MatchedStatement.accept(visitor);
+        if(ElsePart!=null) ElsePart.accept(visitor);
+        if(UnmatchedStatement!=null) UnmatchedStatement.accept(visitor);
     }
 
     public void traverseTopDown(Visitor visitor) {
         accept(visitor);
-        if(Condition!=null) Condition.traverseTopDown(visitor);
-        if(Matched!=null) Matched.traverseTopDown(visitor);
-        if(Unmatched!=null) Unmatched.traverseTopDown(visitor);
+        if(IfPart!=null) IfPart.traverseTopDown(visitor);
+        if(MatchedStatement!=null) MatchedStatement.traverseTopDown(visitor);
+        if(ElsePart!=null) ElsePart.traverseTopDown(visitor);
+        if(UnmatchedStatement!=null) UnmatchedStatement.traverseTopDown(visitor);
     }
 
     public void traverseBottomUp(Visitor visitor) {
-        if(Condition!=null) Condition.traverseBottomUp(visitor);
-        if(Matched!=null) Matched.traverseBottomUp(visitor);
-        if(Unmatched!=null) Unmatched.traverseBottomUp(visitor);
+        if(IfPart!=null) IfPart.traverseBottomUp(visitor);
+        if(MatchedStatement!=null) MatchedStatement.traverseBottomUp(visitor);
+        if(ElsePart!=null) ElsePart.traverseBottomUp(visitor);
+        if(UnmatchedStatement!=null) UnmatchedStatement.traverseBottomUp(visitor);
         accept(visitor);
     }
 
@@ -73,20 +87,26 @@ public class UnmatchedIfElse extends Unmatched {
         buffer.append(tab);
         buffer.append("UnmatchedIfElse(\n");
 
-        if(Condition!=null)
-            buffer.append(Condition.toString("  "+tab));
+        if(IfPart!=null)
+            buffer.append(IfPart.toString("  "+tab));
         else
             buffer.append(tab+"  null");
         buffer.append("\n");
 
-        if(Matched!=null)
-            buffer.append(Matched.toString("  "+tab));
+        if(MatchedStatement!=null)
+            buffer.append(MatchedStatement.toString("  "+tab));
         else
             buffer.append(tab+"  null");
         buffer.append("\n");
 
-        if(Unmatched!=null)
-            buffer.append(Unmatched.toString("  "+tab));
+        if(ElsePart!=null)
+            buffer.append(ElsePart.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(UnmatchedStatement!=null)
+            buffer.append(UnmatchedStatement.toString("  "+tab));
         else
             buffer.append(tab+"  null");
         buffer.append("\n");

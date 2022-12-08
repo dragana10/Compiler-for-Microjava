@@ -1,0 +1,449 @@
+INFO  00:20:18,435 - Compiling source file: D:\workspace\pp1\Dominacija\test\1.mj
+INFO  00:20:18,485 - #2 program
+INFO  00:20:18,485 - #20 MJProgram
+INFO  00:20:18,485 - #20 int
+INFO  00:20:18,486 - #20 x
+INFO  00:20:18,487 - #6 ;
+INFO  00:20:18,487 - #20 int
+INFO  00:20:18,488 - #20 y
+INFO  00:20:18,488 - #6 ;
+INFO  00:20:18,488 - #3 const
+INFO  00:20:18,488 - #20 bool
+INFO  00:20:18,488 - #20 a
+INFO  00:20:18,488 - #11 =
+INFO  00:20:18,488 - #19 false
+INFO  00:20:18,488 - #14 ,
+INFO  00:20:18,490 - #20 b
+INFO  00:20:18,490 - #11 =
+INFO  00:20:18,490 - #19 true
+INFO  00:20:18,490 - #6 ;
+INFO  00:20:18,490 - #4 {
+INFO  00:20:18,490 - #20 int
+INFO  00:20:18,491 - #20 k
+INFO  00:20:18,491 - #7 (
+INFO  00:20:18,491 - #8 )
+INFO  00:20:18,492 - #20 int
+INFO  00:20:18,493 - #20 c
+INFO  00:20:18,493 - #6 ;
+INFO  00:20:18,493 - #4 {
+INFO  00:20:18,493 - #20 c
+INFO  00:20:18,494 - #11 =
+INFO  00:20:18,494 - #18 2
+INFO  00:20:18,495 - #6 ;
+INFO  00:20:18,498 - #12 return
+INFO  00:20:18,498 - #20 c
+INFO  00:20:18,498 - #13 +
+INFO  00:20:18,499 - #18 2
+INFO  00:20:18,499 - #6 ;
+INFO  00:20:18,500 - #5 }
+INFO  00:20:18,500 - #20 int
+INFO  00:20:18,501 - #20 main
+INFO  00:20:18,501 - #7 (
+INFO  00:20:18,501 - #8 )
+INFO  00:20:18,501 - #4 {
+INFO  00:20:18,501 - #15 print
+INFO  00:20:18,501 - #7 (
+INFO  00:20:18,502 - #18 1
+INFO  00:20:18,502 - #8 )
+INFO  00:20:18,502 - #6 ;
+INFO  00:20:18,502 - #20 x
+INFO  00:20:18,502 - #11 =
+INFO  00:20:18,503 - #20 y
+INFO  00:20:18,503 - #13 +
+INFO  00:20:18,503 - #18 5
+INFO  00:20:18,503 - #13 +
+INFO  00:20:18,503 - #18 3
+INFO  00:20:18,503 - #6 ;
+INFO  00:20:18,503 - #15 print
+INFO  00:20:18,503 - #7 (
+INFO  00:20:18,503 - #18 2
+INFO  00:20:18,504 - #8 )
+INFO  00:20:18,504 - #6 ;
+INFO  00:20:18,504 - #20 k
+INFO  00:20:18,504 - #7 (
+INFO  00:20:18,504 - #8 )
+INFO  00:20:18,504 - #6 ;
+INFO  00:20:18,505 - #12 return
+INFO  00:20:18,505 - #18 1
+INFO  00:20:18,505 - #6 ;
+INFO  00:20:18,505 - #5 }
+INFO  00:20:18,505 - #5 }
+INFO  00:20:18,514 - Program(
+  ProgramName(
+   MJProgram
+  ) [ProgramName]
+  ListDeclForProg(
+    ListDeclForProg(
+      ListDeclForProg(
+        NoListOfDecs(
+        ) [NoListOfDecs]
+        VarDeclForProg(
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+            VarVariable(
+              VariableName(
+               x
+              ) [VariableName]
+            ) [VarVariable]
+            NoVars(
+            ) [NoVars]
+          ) [VarDeclaration]
+        ) [VarDeclForProg]
+      ) [ListDeclForProg]
+      VarDeclForProg(
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+          VarVariable(
+            VariableName(
+             y
+            ) [VariableName]
+          ) [VarVariable]
+          NoVars(
+          ) [NoVars]
+        ) [VarDeclaration]
+      ) [VarDeclForProg]
+    ) [ListDeclForProg]
+    ConstDeclForProg(
+      ConstDeclaration(
+        Type(
+         bool
+        ) [Type]
+        ConstExp(
+         a
+          BoolConstVal(
+            BoolConst(
+             false
+            ) [BoolConst]
+          ) [BoolConstVal]
+        ) [ConstExp]
+        ConstExpsList(
+          NoConsts(
+          ) [NoConsts]
+          ConstExp(
+           b
+            BoolConstVal(
+              BoolConst(
+               true
+              ) [BoolConst]
+            ) [BoolConstVal]
+          ) [ConstExp]
+        ) [ConstExpsList]
+      ) [ConstDeclaration]
+    ) [ConstDeclForProg]
+  ) [ListDeclForProg]
+  ListMethodDecls(
+    ListMethodDecls(
+      NoMetDecls(
+      ) [NoMetDecls]
+      MethodDeclr(
+        MethodVoid(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodVoid]
+        NoFormPars(
+        ) [NoFormPars]
+        MulVariableDecls(
+          NoMulVars(
+          ) [NoMulVars]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+            VarVariable(
+              VariableName(
+               c
+              ) [VariableName]
+            ) [VarVariable]
+            NoVars(
+            ) [NoVars]
+          ) [VarDeclaration]
+        ) [MulVariableDecls]
+        Statements(
+          ListStatements(
+            ListStatements(
+              NoStmts(
+              ) [NoStmts]
+              StatementWithoutLabel(
+                MatchedStatementClass(
+                  DesignatorStatementMatched(
+                    DesignatorStmt(
+                      DesignatorClass(
+                       c
+                        NoDesPars(
+                        ) [NoDesPars]
+                      ) [DesignatorClass]
+                      DesignatorParamsAssignopExpr(
+                        AssignopDerived1(
+                        ) [AssignopDerived1]
+                        ExprClass(
+                          ExprPositive(
+                            TermSingle(
+                              Term(
+                                FactorsSingle(
+                                  FactorNum(
+                                    NumConst(
+                                     2
+                                    ) [NumConst]
+                                  ) [FactorNum]
+                                ) [FactorsSingle]
+                              ) [Term]
+                            ) [TermSingle]
+                          ) [ExprPositive]
+                          NoExpr(
+                          ) [NoExpr]
+                        ) [ExprClass]
+                      ) [DesignatorParamsAssignopExpr]
+                    ) [DesignatorStmt]
+                  ) [DesignatorStatementMatched]
+                ) [MatchedStatementClass]
+              ) [StatementWithoutLabel]
+            ) [ListStatements]
+            StatementWithoutLabel(
+              MatchedStatementClass(
+                RetExprStatement(
+                  ReturnPart(
+                  ) [ReturnPart]
+                  ExprClass(
+                    ExprPositive(
+                      ListAddopTerms(
+                        TermSingle(
+                          Term(
+                            FactorsSingle(
+                              FactorDesign(
+                                DesignatorClass(
+                                 c
+                                  NoDesPars(
+                                  ) [NoDesPars]
+                                ) [DesignatorClass]
+                              ) [FactorDesign]
+                            ) [FactorsSingle]
+                          ) [Term]
+                        ) [TermSingle]
+                        Plus(
+                        ) [Plus]
+                        Term(
+                          FactorsSingle(
+                            FactorNum(
+                              NumConst(
+                               2
+                              ) [NumConst]
+                            ) [FactorNum]
+                          ) [FactorsSingle]
+                        ) [Term]
+                      ) [ListAddopTerms]
+                    ) [ExprPositive]
+                    NoExpr(
+                    ) [NoExpr]
+                  ) [ExprClass]
+                ) [RetExprStatement]
+              ) [MatchedStatementClass]
+            ) [StatementWithoutLabel]
+          ) [ListStatements]
+        ) [Statements]
+      ) [MethodDeclr]
+    ) [ListMethodDecls]
+    MethodDeclr(
+      MethodVoid(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodVoid]
+      NoFormPars(
+      ) [NoFormPars]
+      NoMulVars(
+      ) [NoMulVars]
+      Statements(
+        ListStatements(
+          ListStatements(
+            ListStatements(
+              ListStatements(
+                ListStatements(
+                  NoStmts(
+                  ) [NoStmts]
+                  StatementWithoutLabel(
+                    MatchedStatementClass(
+                      PrintExprStatement(
+                        PrintPart(
+                        ) [PrintPart]
+                        ExprClass(
+                          ExprPositive(
+                            TermSingle(
+                              Term(
+                                FactorsSingle(
+                                  FactorNum(
+                                    NumConst(
+                                     1
+                                    ) [NumConst]
+                                  ) [FactorNum]
+                                ) [FactorsSingle]
+                              ) [Term]
+                            ) [TermSingle]
+                          ) [ExprPositive]
+                          NoExpr(
+                          ) [NoExpr]
+                        ) [ExprClass]
+                      ) [PrintExprStatement]
+                    ) [MatchedStatementClass]
+                  ) [StatementWithoutLabel]
+                ) [ListStatements]
+                StatementWithoutLabel(
+                  MatchedStatementClass(
+                    DesignatorStatementMatched(
+                      DesignatorStmt(
+                        DesignatorClass(
+                         x
+                          NoDesPars(
+                          ) [NoDesPars]
+                        ) [DesignatorClass]
+                        DesignatorParamsAssignopExpr(
+                          AssignopDerived1(
+                          ) [AssignopDerived1]
+                          ExprClass(
+                            ExprPositive(
+                              ListAddopTerms(
+                                ListAddopTerms(
+                                  TermSingle(
+                                    Term(
+                                      FactorsSingle(
+                                        FactorDesign(
+                                          DesignatorClass(
+                                           y
+                                            NoDesPars(
+                                            ) [NoDesPars]
+                                          ) [DesignatorClass]
+                                        ) [FactorDesign]
+                                      ) [FactorsSingle]
+                                    ) [Term]
+                                  ) [TermSingle]
+                                  Plus(
+                                  ) [Plus]
+                                  Term(
+                                    FactorsSingle(
+                                      FactorNum(
+                                        NumConst(
+                                         5
+                                        ) [NumConst]
+                                      ) [FactorNum]
+                                    ) [FactorsSingle]
+                                  ) [Term]
+                                ) [ListAddopTerms]
+                                Plus(
+                                ) [Plus]
+                                Term(
+                                  FactorsSingle(
+                                    FactorNum(
+                                      NumConst(
+                                       3
+                                      ) [NumConst]
+                                    ) [FactorNum]
+                                  ) [FactorsSingle]
+                                ) [Term]
+                              ) [ListAddopTerms]
+                            ) [ExprPositive]
+                            NoExpr(
+                            ) [NoExpr]
+                          ) [ExprClass]
+                        ) [DesignatorParamsAssignopExpr]
+                      ) [DesignatorStmt]
+                    ) [DesignatorStatementMatched]
+                  ) [MatchedStatementClass]
+                ) [StatementWithoutLabel]
+              ) [ListStatements]
+              StatementWithoutLabel(
+                MatchedStatementClass(
+                  PrintExprStatement(
+                    PrintPart(
+                    ) [PrintPart]
+                    ExprClass(
+                      ExprPositive(
+                        TermSingle(
+                          Term(
+                            FactorsSingle(
+                              FactorNum(
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [FactorNum]
+                            ) [FactorsSingle]
+                          ) [Term]
+                        ) [TermSingle]
+                      ) [ExprPositive]
+                      NoExpr(
+                      ) [NoExpr]
+                    ) [ExprClass]
+                  ) [PrintExprStatement]
+                ) [MatchedStatementClass]
+              ) [StatementWithoutLabel]
+            ) [ListStatements]
+            StatementWithoutLabel(
+              MatchedStatementClass(
+                DesignatorStatementMatched(
+                  DesignatorStmt(
+                    DesignatorClass(
+                     k
+                      NoDesPars(
+                      ) [NoDesPars]
+                    ) [DesignatorClass]
+                    DesignatorWithoutParams(
+                    ) [DesignatorWithoutParams]
+                  ) [DesignatorStmt]
+                ) [DesignatorStatementMatched]
+              ) [MatchedStatementClass]
+            ) [StatementWithoutLabel]
+          ) [ListStatements]
+          StatementWithoutLabel(
+            MatchedStatementClass(
+              RetExprStatement(
+                ReturnPart(
+                ) [ReturnPart]
+                ExprClass(
+                  ExprPositive(
+                    TermSingle(
+                      Term(
+                        FactorsSingle(
+                          FactorNum(
+                            NumConst(
+                             1
+                            ) [NumConst]
+                          ) [FactorNum]
+                        ) [FactorsSingle]
+                      ) [Term]
+                    ) [TermSingle]
+                  ) [ExprPositive]
+                  NoExpr(
+                  ) [NoExpr]
+                ) [ExprClass]
+              ) [RetExprStatement]
+            ) [MatchedStatementClass]
+          ) [StatementWithoutLabel]
+        ) [ListStatements]
+      ) [Statements]
+    ) [MethodDeclr]
+  ) [ListMethodDecls]
+) [Program]
+INFO  00:20:18,514 - ===================================
+INFO  00:20:18,518 - Program name is: MJProgram na liniji 1
+INFO  00:20:18,518 - Type: int visited na liniji 2
+INFO  00:20:18,518 - Variable: x declared na liniji 2
+INFO  00:20:18,518 - VarDeclaration visited na liniji 2
+INFO  00:20:18,518 - Type: int visited na liniji 2
+INFO  00:20:18,518 - Variable: y declared na liniji 2
+INFO  00:20:18,518 - VarDeclaration visited na liniji 2
+INFO  00:20:18,518 - Type: bool visited na liniji 3
+ERROR 00:20:18,518 - Const declaration is not correct
+ERROR 00:20:18,518 - Const declaration is not correct
+INFO  00:20:18,518 - ConstDeclaration visited na liniji 3
+INFO  00:20:18,518 - Type: int visited na liniji 6
+INFO  00:20:18,518 - Type: int visited na liniji 6
+INFO  00:20:18,518 - Variable: c declared na liniji 6
+INFO  00:20:18,518 - VarDeclaration visited na liniji 6
+INFO  00:20:18,519 - Type: int visited na liniji 11
+ERROR 00:20:18,519 - There is not main method
+INFO  00:20:18,519 - ===================================
